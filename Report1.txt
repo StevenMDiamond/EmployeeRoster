@@ -1,0 +1,821 @@
+﻿FullName	LastNameCalc	FirstNameCalc	Author	C1ALIAS	c_descript	doccount	LOGIN	LastName	FirstName	NetworkID	ParentDeptCode	ParentDeptDescription	DeptCode	DeptDescription	MatchStatus
+Amalraj, Arun Stanley Joshua (Contractor)	Amalraj	Arun Stanley Joshua	AAM5789	CCL_IS_QC	CCL IS QUALITY CONTROL	3598	Y								No Match
+Anti-Bribery & Corruption Due Diligence			ABCDUEDILIGENCE	CC_LEGAL	CORPORATE LEGAL	710	Y								No Match
+Blanco, Ana (CarnCorp)	Blanco	Ana	ABL9029	CC_LEGAL	CORPORATE LEGAL	26543	Y	Blanco	Ana	ABL9029	CRPEX	CRP Executive Offices (ABG)	51974	Ethics and Compliance (ABG)	Match
+Blanco, Ana (CarnCorp)	Blanco	Ana	ABL9029	CC_MP	CORPORATE MARITIME POLICY	5	Y	Blanco	Ana	ABL9029	CRPEX	CRP Executive Offices (ABG)	51974	Ethics and Compliance (ABG)	Match
+Tejada, Abraham (CCL)	Tejada	Abraham	ABRAHAMT	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	22072	Y	Tejada	Abraham	ABRAHAMT	CCLFP	CCL Commercial Ops and Anlysis (CCL)	61701	Shrd Cntc Ctr Ops Sus - Mia (CCL)	Match
+De La Cruz, Alex (CarnCorp)	De La Cruz	Alex	ADE8182	CC_LEGAL	CORPORATE LEGAL	1352	Y	De La Cruz	Alex	ade8182	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Perez, Adel (CCL)	Perez	Adel	ADELP	CC_ADMIN	CORPORATE ADMINISTRATION	1391	Y	Perez	Adela	ADELP	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+Perez, Adolfo (CCL)	Perez	Adolfo	ADOLFOP	CCL_WW_SLS	CCL WORLDWIDE SALES	1	Y	Perez	Adolfo	ADOLFOP	CCLDS	CCL Sales and Trade Marketing (CCL)	64720	Outside Sales (CCL)	Match
+Moreira, Adriana (CCL)	Moreira	Adriana	ADRIANAM	CCL_FIN	CCL FINANCE	66	Y	Moreira	Adriana	ADRIANAM	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+Moreira, Adriana (CCL)	Moreira	Adriana	ADRIANAM	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	32031	Y	Moreira	Adriana	ADRIANAM	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+Hernandez-Ravelo, Ariana (CarnCorp)	Hernandez-Ravelo	Ariana	AHE7473	CC_LEGAL	CORPORATE LEGAL	156	Y	Hernandez-Ravelo	Ariana	ahe7473	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+zz (End 7/6/2019) Hickman-Diaz, Antonio (CCL)	Hickman-Diaz	Antonio	AHI8337	CC_LEGAL	CORPORATE LEGAL	126	N								No Match
+zz (End 7/22/2020) Mortillaro, Aishel (CCL)	Mortillaro	Aishel	AISHELM	CCL_IS_ECOMMERCE	CCL IS ECOMMERCE	1	N								No Match
+Singh, Akanksha (Contractor)	Singh	Akanksha	AKANKSHASI	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	1	Y								No Match
+zz (End 6/1/2020) Tocicki, Alejandra (CarnCorp)	Tocicki	Alejandra	ALEJANDRAR	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	16662	N								No Match
+Munoz, Alejandro (CarnCorp)	Munoz	Alejandro	ALEJANDROMU	CCL_IS_END_USER_SUPP	CCL IS END USER SUPPORT DEPARTMENT	24363	Y	Munoz	Alejandro	ALEJANDROMU	CCLIS	CCL Information Systems (CCL)	52530	Quality Engineering - Ded (CCL)	Match
+Hinds Furisova, Alena (CCL)	Hinds Furisova	Alena	ALENAF	CCL_GST_OPS	CCL GUEST OPERATIONS	2935	Y	Hinds Furisova	Alena	ALENAF	CCLGO	CCL Guest Operations (CCL)	56700	Hotel Services Management (CCL)	Match
+D'Elia, Alexander (CarnCorp)	D'Elia	Alexander	ALEXANDERD	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	24231	Y	D'Elia	Alexander	ALEXANDERD	CRPEX	CRP Executive Offices (ABG)	51760	Global Sourcing (ABG)	Match
+Simon, Alexandra (CCL)	Simon	Alexandra	ALEXANDRASI	CCL_CHT_INC_SERV	CCL CHARTER & INCENTIVE SERVICES	17161	Y	Simon	Alexandra	ALEXANDRASI	CCLGC	CCL Guest Commerce (CCL)	56810	Retail Services (CCL)	Match
+zz (End 6/1/2020) Gonzalez, Alejandro G. (CCL)	Gonzalez	Alejandro G.	ALEXG	CCL_PUR	CCL Purchasing	4803	N								No Match
+Chirulnicoff, Alexis (CCL)	Chirulnicoff	Alexis	ALEXISC	CCL_MAR_OPS	CCL MARINE OPERATIONS	2156	Y	Chirulnicoff	Alexis	ALEXISC	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+Sanchez, Alex (CCL)	Sanchez	Alex	ALEXSA	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	66	Y	Sanchez	Alexis	ALEXSA	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 6/1/2020) Gondolfo, Alina (CarnCorp)	Gondolfo	Alina	ALINAG	CC_TAX	CORPORATE TAX	6780	N								No Match
+Mesa, Alis (CCL)	Mesa	Alis	ALISM	CCL_IS_ECOMMERCE	CCL IS ECOMMERCE	3958	Y	Mesa	Alis	ALISM	CCLIS	CCL Information Systems (CCL)	52390	Digital Technical Systms - Ded (CCL)	Match
+zz (End 12/7/2020) Torrez, Alison (CarnCorp)	Torrez	Alison	ALISONT	CC_ADMIN	CORPORATE ADMINISTRATION	358	N								No Match
+zz (End 12/7/2020) Torrez, Alison (CarnCorp)	Torrez	Alison	ALISONT	CC_MAR_QA	CORPORATE MARITIME QUALITY ASSURANCE	10415	N								No Match
+zz (End 11/12/2019) Holder, Allan (CarnCorp)	Holder	Allan	ALLANH	CC_TAX	CORPORATE TAX	3354	N								No Match
+zz (End 6/24/2021) Lennon, Allesha (CCL)	Lennon	Allesha	ALLESHAL	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	2	N								No Match
+Loynaz, Arturo (CCL)	Loynaz	Arturo	ALO3313	CCL_SEC_SVC	SECURITY SERVICES	357	Y	Loynaz	Arturo	ALO3313	CCLSS	CCL Security Services (CCL)	55200	Security Services (CCL)	Match
+zz (End 6/1/2020) Corredor Jr, Alphonso (CCL)	Corredor Jr	Alphonso	ALPHONSOC	CCL_GST_CARE_TM	CCL GUEST CARE TEAM	6850	N								No Match
+Resurreccion, Alwin Domel (CarnCorp)	Resurreccion	Alwin Domel	ALWINR	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	4941	Y	Resurreccion	Alwin Domel	ALWINR	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Lopez, Amanda (CCL)	Lopez	Amanda	AMANDAL	CCL_GST_CARE_TM	CCL GUEST CARE TEAM	41042	Y	Lopez	Amanda	AMANDAL	CCLCM	CCL Communications (CCL)	56350	Guest Communica and Guest Care (CCL)	Match
+Potlapati, Amarnath (CCL)	Potlapati	Amarnath	AMARNATHP	CC_IT	CORPORATE IT	105	Y	Potlapati	Amarnath	AMARNATHP	CCLIS	CCL Information Systems (CCL)	52471	Global Maritime Solns (CCL)	Match
+Gault, Amisaday (CarnCorp)	Gault	Amisaday	AMISADAY	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	11884	Y	Gault	Amisaday	AMISADAY	CRP25	Carnival Ports, Inc. (ABG)	51742	Carnival Ports (ABG)	Match
+Martinez, Amy (CCL)	Martinez	Amy	AMYMAR	CCL_GST_COMM	CCL GUEST COMMERCE	30667	Y	Martinez	Amy	AMYMAR	CCLGC	CCL Guest Commerce (CCL)	56810	Retail Services (CCL)	Match
+zz (End 1/13/2020) Rezende, Ana (CCL)	Rezende	Ana	ANAR	CCL_FIN_SHIP_OPS	CCL FINANCE SHIPBOARD OPERATIONS	23216	N								No Match
+zz (End 6/1/2020) Gonzalez, Anaris (CCL)	Gonzalez	Anaris	ANARISG	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	449	N								No Match
+Winfield, Andrea (CCL)	Winfield	Andrea	ANDREAGO	CCL_MAR_OPS	CCL MARINE OPERATIONS	51359	Y	Winfield	Andrea	ANDREAGO	CCLTO	CCL Marine Operations (CCL)	53675	Marine Ops Plng And Budgeting (CCL)	Match
+Solomon, Andrea (CCL)	Solomon	Andrea	ANDREASO	CCL_IS_END_USER_SUPP	CCL IS END USER SUPPORT DEPARTMENT	303	Y	Solomon	Andrea	ANDREASO	CCLGO	CCL Guest Operations (CCL)	53620	Entertainment Management (CCL)	Match
+Niculescu Aron, Andreea (CCL)	Niculescu Aron	Andreea	ANDREEA	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	13886	Y	Niculescu Aron	Andreea	ANDREEA	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 6/1/2020) Carrillo, Andres (CarnCorp)	Carrillo	Andres	ANDRESC	CC_LEGAL	CORPORATE LEGAL	1	N								No Match
+zz (End 6/1/2020) Dedels, Andrew (CarnCorp)	Dedels	Andrew	ANDREWDE	CC_CASINO	CORPORATE CASINO	33	N								No Match
+zz (End 6/1/2020) Dedels, Andrew (CarnCorp)	Dedels	Andrew	ANDREWDE	CCL_IS_QC	CCL IS QUALITY CONTROL	4	N								No Match
+Paul, Andrew (CarnCorp)	Paul	Andrew	ANDREWP	CC_ADMIN	CORPORATE ADMINISTRATION	3280	Y	Paul	Andrew	ANDREWP	CRPEX	CRP Executive Offices (ABG)	51975	Maritime Innovation (ABG)	Match
+zz (End 6/1/2020) Hernandez, Andy (CarnCorp)	Hernandez	Andy	ANDYH	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	27833	N								No Match
+zz (End 8/6/2020) Madera, Argelia (CCL)	Madera	Argelia	ANGELIAM	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	490	N								No Match
+zz (End 3/12/2020) D'Mello, Angelo (CCL)	D'Mello	Angelo	ANGELOD	CCL_F&B	CCL FOOD & BEVERAGE (CULINARY & DINING)	2	N								No Match
+zz (End 8/3/2020) Virgona, Angelo (CCL)	Virgona	Angelo	ANGELOV	CCL_MAR_OPS	CCL MARINE OPERATIONS	30251	N								No Match
+zz (End 6/1/2020) Colon-Dalmau, Anna (CCL)	Colon-Dalmau	Anna	ANNA	CCL_MAR_OPS	CCL MARINE OPERATIONS	476	N								No Match
+zz (End 7/26/2019) Zurolo, Anna (CCL)	Zurolo	Anna	ANNAZ	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	35550	N								No Match
+Hessing, Annelys (CCL)	Hessing	Annelys	ANNELYSH	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	47469	Y	Hessing	Annelys	ANNELYSH	CCLHR	CCL Human Resources (CCL)	59800	Human Resources (CCL)	Match
+zz (End 7/26/2019) Campoli, Anthony (CarnCorp)	Campoli	Anthony	ANTHONYCA	CC_CASINO	CORPORATE CASINO	3	N								No Match
+zz (End 7/4/2020) Mateos, Antonio (CCL)	Mateos	Antonio	ANTONIOMA	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	1	N								No Match
+API Support (CCL)	API Support		APIS	CCL_ESOL	CCL ESOLUTIONS	9733	Y								No Match
+API Support (CCL)	API Support		APIS	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	17	Y								No Match
+Arabe, Oscar (CCL)	Arabe	Oscar	ARABEO	CCL_PUR	CCL Purchasing	2	Y	Arabe	Oscar	ARABEO	CCLSO	CCL Sourcing and Supply Chain (CCL)	58300	Purchasing (CCL)	Match
+Conde, Ariadna (CCL)	Conde	Ariadna	ARIADNAC	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	3063	Y	Conde	Ariadna	ARIADNAC	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+Godoy, Arianna (CarnCorp)	Godoy	Arianna	ARIANNAG	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	24086	Y	Godoy Garcia	Arianna	ARIANNAG	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+zz (End 2/14/2021) Molina, Ariel (CCL)	Molina	Ariel	ARIELM	CCL_IS_ECOMMERCE	CCL IS ECOMMERCE	64	N								No Match
+zz (End 7/14/2021) Mendez, Arlene (CCL)	Mendez	Arlene	ARLENER	CCL_SEC_SVC	SECURITY SERVICES	1	N								No Match
+Corpas, Armando (CarnCorp)	Corpas	Armando	ARMANDOCO	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	8872	Y	Corpas	Armando	ARMANDOCO	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+Perez, Arnaldo (CarnCorp)	Perez	Arnaldo	ARNIEP	NULL	NULL	1815	Y	Perez	Arnaldo	ARNIEP	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Perez, Arnaldo (CarnCorp)	Perez	Arnaldo	ARNIEP	CC_LEGAL	CORPORATE LEGAL	14828	Y	Perez	Arnaldo	ARNIEP	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Arrival Notice (CCL)	Arrival Notice		ARRIVALNOTICE	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	14676	Y								No Match
+zz (End 2/10/2021) Scott, Annette (CCL)	Scott	Annette	ASC5736	CCL_REV_MGMT	CCL REVENUE MANAGEMENT	26279	N								No Match
+zz (End 8/26/2016) Jones, Ashleigh (CCL)	Jones	Ashleigh	ASHLEIGHJ	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	2409	N								No Match
+Spencer, Ashley (CCL)	Spencer	Ashley	ASHLEYSP	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	7303	Y	Spencer	Ashley	ASHLEYSP	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+Brake, Aubrie (CarnCorp)	Brake	Aubrie	AUBRIEB	CC_MP	CORPORATE MARITIME POLICY	69520	Y	Hunter	Aubrie	AUBRIEB	CRPEX	CRP Executive Offices (ABG)	51974	Ethics and Compliance (ABG)	Match
+Warents, Alexander (CarnCorp)	Warents	Alexander	AWA4070	NULL	NULL	35	Y	Warents	Alexander	awa4070	CRPEX	CRP Executive Offices (ABG)	51703	Global Treasury (ABG)	Match
+Warents, Alexander (CarnCorp)	Warents	Alexander	AWA4070	CC_LEGAL	CORPORATE LEGAL	5	Y	Warents	Alexander	awa4070	CRPEX	CRP Executive Offices (ABG)	51703	Global Treasury (ABG)	Match
+Wright, Asia (CarnCorp)	Wright	Asia	AWR7465	CC_MP	CORPORATE MARITIME POLICY	31030	Y								No Match
+Wright, Antoinette (CarnCorp)	Wright	Antoinette	AWR7502	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	5156	Y	Wright	Antoinette	AWR7502	CRPEX	CRP Executive Offices (ABG)	51760	Global Sourcing (ABG)	Match
+Ayala, Axel (CCL)	Ayala	Axel	AXELA	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	12076	Y	Ayala	Axel	AXELA	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+Kalidass, Balaji (Contractor)	Kalidass	Balaji	BALAJIKA	CCL_IS_QC	CCL IS QUALITY CONTROL	1	Y								No Match
+zz (End 6/2/2020) Gonzalez, Beatriz (CCL)	Gonzalez	Beatriz	BEATRIZG	CC_ADMIN	CORPORATE ADMINISTRATION	557	N								No Match
+zz (End 6/2/2020) Gonzalez, Beatriz (CCL)	Gonzalez	Beatriz	BEATRIZG	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	141	N								No Match
+Mohamed, Bebe (CCL)	Mohamed	Bebe	BEBEM	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	128	Y	Mohamed	Bebe	BEBEM	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61109	Group (CCL)	Match
+Rivera, Belinda (CCL)	Rivera	Belinda	BELINDARI	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	1	Y								No Match
+zz (End 1/12/2021) Cardella, Benedetto (CCL)	Cardella	Benedetto	BENEDETTOC	CCL_TEC	CCL TECHNICAL OPERATIONS	11540	N								No Match
+Levy, Benjamin (CCL)	Levy	Benjamin	BENL	CCL_IS_ECOMMERCE	CCL IS ECOMMERCE	361	Y	Levy	Benjamin	BENL	CCLIS	CCL Information Systems (CCL)	52390	Digital Technical Systms - Ded (CCL)	Match
+Lobo, Benton (CCL)	Lobo	Benton	BENTONL	CC_ADMIN	CORPORATE ADMINISTRATION	9401	Y	Lobo	Benton	BENTONL	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+Lobo, Benton (CCL)	Lobo	Benton	BENTONL	CCL_MAR_OPS	CCL MARINE OPERATIONS	99616	Y	Lobo	Benton	BENTONL	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+Piller, Bertrand (CarnCorp)	Piller	Bertrand	BERTRANDP	CC_AUDIT_SERVICES	MANAGEMENT ADVISORY SERVICES	87	Y	Piller	Bertrand	BERTRANDP	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+Piller, Bertrand (CarnCorp)	Piller	Bertrand	BERTRANDP	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	166	Y	Piller	Bertrand	BERTRANDP	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+Roberts, Beth (CarnCorp)	Roberts	Beth	BETHR	CC_INV_REL	CORPORATE INVESTOR RELATIONS	62	Y	Roberts	Elizabeth	BETHR	CRPEX	CRP Executive Offices (ABG)	51703	Global Treasury (ABG)	Match
+Thapa, Bhaskar (CCL)	Thapa	Bhaskar	BHASKART	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	3	Y	Thapa	Bhaskar	BHASKART	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61400	Services (CCL)	Match
+Hedrick, Brett (CCL)	Hedrick	Brett	BHE2580	CC_ADMIN	CORPORATE ADMINISTRATION	1258	Y	Hedrick	Brett	bhe2580	CCLGO	CCL Guest Operations (CCL)	53620	Entertainment Management (CCL)	Match
+Hedrick, Brett (CCL)	Hedrick	Brett	BHE2580	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	6546	Y	Hedrick	Brett	bhe2580	CCLGO	CCL Guest Operations (CCL)	53620	Entertainment Management (CCL)	Match
+Dumois, Bill (CCL)	Dumois	Bill	BILLD	CCL_MKT_SVCS	CCL MARKETING SERVICES	1	Y	Dumois	Guillermo	BILLD	CCLIS	CCL Information Systems (CCL)	52330	IT Sales and Guest Svcs - Ded (CCL)	Match
+Dumois, Bill (CCL)	Dumois	Bill	BILLD	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	1	Y	Dumois	Guillermo	BILLD	CCLIS	CCL Information Systems (CCL)	52330	IT Sales and Guest Svcs - Ded (CCL)	Match
+zz (End 12/7/2020) Almonacid, Blanca (CarnCorp)	Almonacid	Blanca	BLANCAA	CC_CASINO	CORPORATE CASINO	7706	N								No Match
+BoardsofDirectors			BOARDSOFDIRECTORS	CC_LEGAL	CORPORATE LEGAL	19	Y								No Match
+zz (End 11/18/2021) Kirk, Robert (CCL)	Kirk	Robert	BOB	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	903	N								No Match
+Roundtree, Brandon (CCL)	Roundtree	Brandon	BRANDONRO	CCL_FIN_PLN_RPT_SLS	CCL FINANCIAL PLANNING & REPORTING - SALES	4477	Y	Roundtree	Brandon	BRANDONRO	CCLFP	CCL Commercial Ops and Anlysis (CCL)	63700	Commercial Reporting and Anlys (CCL)	Match
+Vitols, Brett (CCL)	Vitols	Brett	BRETTV	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	15507	Y	Vitols	Brett	BRETTV	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 7/14/2021) Louie, Brianna (CCL)	Louie	Brianna	BRIANNAL	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	4	N								No Match
+zz (End 12/4/2019) Van Slyke, Brian (CarnCorp)	Van Slyke	Brian	BRIANV	CC_MAR_QA	CORPORATE MARITIME QUALITY ASSURANCE	86	N								No Match
+Ellingsworth, Brittany (CarnCorp)	Ellingsworth	Brittany	BRITTANYE	CC_ADMIN	CORPORATE ADMINISTRATION	7	Y	Ellingsworth	Brittany	BRITTANYE	CRPHR	Corp HR Shoreside (ABG)	51100	Global Human Resources (ABG)	Match
+Ellingsworth, Brittany (CarnCorp)	Ellingsworth	Brittany	BRITTANYE	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	10321	Y	Ellingsworth	Brittany	BRITTANYE	CRPHR	Corp HR Shoreside (ABG)	51100	Global Human Resources (ABG)	Match
+Hernandez, Brittney (CarnCorp)	Hernandez	Brittney	BRITTNEYS	CC_TAX	CORPORATE TAX	4301	Y	Hernandez	Brittney	BRITTNEYS	CRPTX	CRP Tax (ABG)	51750	Global Tax (ABG)	Match
+zz (End 6/1/2020) Torres, Brenda (CarnCorp)	Torres	Brenda	BTO9777	CC_CASINO	CORPORATE CASINO	559	N								No Match
+zz (End 6/1/2020) Torres, Brenda (CarnCorp)	Torres	Brenda	BTO9777	CCL_IS_QC	CCL IS QUALITY CONTROL	1	N								No Match
+zz (End 6/2/2019) Alayeto, Carmen (CCL)	Alayeto	Carmen	CAL3198	CCL_WW_SLS	CCL WORLDWIDE SALES	122	N								No Match
+Ambrosino, Christian (CCL)	Ambrosino	Christian	CAM9056	CCL_MAR_OPS	CCL MARINE OPERATIONS	1	Y	Ambrosino	Christian	cam9056	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Care Team Services (CCL)	Care Team Services		CARETEAMSERVICES	CCL_GST_CARE_TM	CCL GUEST CARE TEAM	12462	Y								No Match
+zz (End 6/1/2020) Lopez, Caridad (CCL)	Lopez	Caridad	CARIDADLO	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	553	N								No Match
+zz (End 12/3/2020) Carlin, Patricia (CCL)	Carlin	Patricia	CARLINP	CCL_IS_PMO	CCL IS PMO	140	N								No Match
+Estrada, Carlos (CCL)	Estrada	Carlos	CARLOSE	CC_MP	CORPORATE MARITIME POLICY	1	Y	Estrada	Carlos	CARLOSE	CCLFO	CCL FOC and Nautical Operations (CCL)	56850	Port Operations (CCL)	Match
+zz (End 5/16/2021) Grijalva, Carlos (TechOps) (CCL)	Grijalva	Carlos (TechOps)	CARLOSGR	CCL_FIN	CCL FINANCE	31783	N								No Match
+zz (End 5/16/2021) Grijalva, Carlos (TechOps) (CCL)	Grijalva	Carlos (TechOps)	CARLOSGR	CCL_RECEIVING	CCL RECEIVING DEPARTMENT	17	N								No Match
+zz (End 5/16/2021) Grijalva, Carlos (TechOps) (CCL)	Grijalva	Carlos (TechOps)	CARLOSGR	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	51547	N								No Match
+zz (End 6/1/2020) Rodriguez-Velazquez, Carlos (CarnCorp)	Rodriguez-Velazquez	Carlos	CARLOSRO	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	2279	N								No Match
+Villarreal, Carlos (CCL)	Villarreal	Carlos	CARLOSV	CCL_GST_CARE_TM	CCL GUEST CARE TEAM	205	Y	Villarreal	Carlos	CARLOSV	CCLCM	CCL Communications (CCL)	56350	Guest Communica and Guest Care (CCL)	Match
+Carnival Corporate Legal Department (CarnCorp)	Carnival Corporate Legal Department		CARNIVALCORPORATELEG	CC_LEGAL	CORPORATE LEGAL	27	Y								No Match
+Chaidez, Caro (CCL)	Chaidez	Caro	CAROLINAF	CCL_GST_CARE_TM	CCL GUEST CARE TEAM	4924	Y	Chaidez	Carolina	CAROLINAF	CCLCM	CCL Communications (CCL)	61914	Communications And Events (CCL)	Match
+Sarduy, Carol (CarnCorp)	Sarduy	Carol	CAROLSA	CC_TREASURY	CORPORATE TREASURY	89	Y	Sarduy	Carol	CAROLSA	CRPEX	CRP Executive Offices (ABG)	51708	Global Financial Services (ABG)	Match
+Casino AML Compliance			CASAMLCOMPLIANCE	CC_CASINO	CORPORATE CASINO	24184	Y								No Match
+Casino AML Compliance			CASAMLCOMPLIANCE	CC_LEGAL	CORPORATE LEGAL	6	Y								No Match
+CASINO APPLICATIONS (CarnCorp)	CASINO APPLICATIONS		CASAPP	CC_CASINO	CORPORATE CASINO	2	Y								No Match
+Casino Compliance (CarnCorp)	Casino Compliance		CASCOMP	CC_CASINO	CORPORATE CASINO	14	Y								No Match
+CASINO ACCOUNTING FILES (CarnCorp)	CASINO ACCOUNTING FILES		CASINOAF	CC_CASINO	CORPORATE CASINO	4068	Y								No Match
+Casino Crew Flights			CASINOCREWFLIGHT	CC_CASINO	CORPORATE CASINO	12272	Y								No Match
+Casino CTR			CASINOCTR	CC_CASINO	CORPORATE CASINO	1092	N								No Match
+Casino Guest Services (CarnCorp)	Casino Guest Services		CASINOGSTSERV	CC_CASINO	CORPORATE CASINO	5429	Y								No Match
+CASINO LOGISTICS			CASINOLOGISTICS	CC_CASINO	CORPORATE CASINO	3685	Y								No Match
+Casino Personnel (CarnCorp)	Casino Personnel		CASINOP	CC_CASINO	CORPORATE CASINO	22643	Y								No Match
+Casino Personnel Administration (CarnCorp)	Casino Personnel Administration		CASINOPERADMIN	CC_CASINO	CORPORATE CASINO	9418	Y								No Match
+Casino Surveillance			CASINOSUR	CC_CASINO	CORPORATE CASINO	5417	Y								No Match
+Casino Staff Documents (CarnCorp)	Casino Staff Documents		CASIOSTAFF	CC_CASINO	CORPORATE CASINO	2	Y								No Match
+Davis, Cassidy (CCL)	Davis	Cassidy	CASSIDYD	CCL_WW_SLS	CCL WORLDWIDE SALES	24871	Y	Davis	Cassidy	CASSIDYD	CCLDS	CCL Sales and Trade Marketing (CCL)	64720	Outside Sales (CCL)	Match
+zz (End 6/2/2020) Zanconato, Catia (CCL)	Zanconato	Catia	CATIAZ	CCL_GST_COMM	CCL GUEST COMMERCE	5356	N								No Match
+Cockfield, Catina (CCL)	Cockfield	Catina	CATINAF	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	1	Y	Cockfield	Catina	CATINAF	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+CASINO ACCOUNTING FILES (CCL)	CASINO ACCOUNTING FILES		CCLCASINOACCOUNTING	CC_CASINO	CORPORATE CASINO	10531	Y								No Match
+Product Deficiency Report (CCL)	Product Deficiency Report		CCLPRODDEF	CCL_PUR	CCL Purchasing	32	Y								No Match
+CCL Tax (CCL)	CCL Tax		CCLTAX	CC_TAX	CORPORATE TAX	9	N								No Match
+Crosbie, Clifton (CCL)	Crosbie	Clifton	CCR5387	CCL_SEC_SVC	SECURITY SERVICES	172	Y	Crosbie	Clifton	CCR5387	CCLSS	CCL Security Services (CCL)	55200	Security Services (CCL)	Match
+Delgado, Cynthia (CarnCorp)	Delgado	Cynthia	CDE4009	CC_TAX	CORPORATE TAX	105	Y	Delgado	Cynthia	cde4009	CRPTX	CRP Tax (ABG)	51750	Global Tax (ABG)	Match
+zz (End 6/1/2020) Masi, Cecilia (CarnCorp)	Masi	Cecilia	CECILIAM	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	798	N								No Match
+zz (End 3/31/2020) Egana, Cesar (Contractor)	Egana	Cesar	CEG8220	CCL_IS_PMO	CCL IS PMO	11	N								No Match
+zz (End 3/29/2019) Flores, Claudia (Contractor)	Flores	Claudia	CFL1599	CC_GARS	CORPORATE GLOBAL ACCOUNTING & REPORTING SERVICES	714	N								No Match
+zz (End 8/26/2021) Getts, Cyrus (CCL)	Getts	Cyrus	CGE5348	CCL_MAR_OPS	CCL MARINE OPERATIONS	15825	N								No Match
+Hadeed, Christopher (CCL)	Hadeed	Christopher	CHA2894	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	8909	Y	Hadeed	Christopher	cha2894	CCLSO	CCL Sourcing and Supply Chain (CCL)	58320	Strategic Sourcing (CCL)	Match
+zz (End 3/5/2019) Hart, Christina (Contractor)	Hart	Christina	CHA6927	CCL_IS_QC	CCL IS QUALITY CONTROL	1	N								No Match
+Fuchs, Charles (CarnCorp)	Fuchs	Charles	CHARLESFUC	CC_TREASURY	CORPORATE TREASURY	2342	Y	Fuchs	Charles	CHARLESFUC	CRPEX	CRP Executive Offices (ABG)	51708	Global Financial Services (ABG)	Match
+Caines Nisbett, Clothell (CCL)	Caines Nisbett	Clothell	CHLOE	CCL_AP	CCL ACCOUNTS PAYABLE	7370	Y	Caines Nisbett	Clothell	CHLOE	CCLFI	CCL Finance (CCL)	59600	Financial Systems (CCL)	Match
+Manecci, Christopher (CCL)	Manecci	Christopher	CHRISM	CCL_ESOL	CCL ESOLUTIONS	3466	Y	Manecci	Christopher	CHRISM	CCLFP	CCL Commercial Ops and Anlysis (CCL)	61701	Shrd Cntc Ctr Ops Sus - Mia (CCL)	Match
+Millman, Chris (CarnCorp)	Millman	Chris	CHRISMI	CC_SHIP_BUILDING	CORPORATE SHIP BUILDING	49794	Y								No Match
+Deese, Christian (CCL)	Deese	Christian	CHRISTIAND	CCL_FLT_DPL_DMD_ANA	CCL FLEET DEPLOYMENT DEMAND ANALYTICS & PLANNING	20738	Y	Deese-Martorell	Christian	CHRISTIAND	CCLRM	CCL Revenue Management (CCL)	63110	Fleet Deployment (CCL)	Match
+zz (End 6/13/2021) Perez, Christina (CCL)	Perez	Christina	CHRISTINAP	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	1	N								No Match
+Doyle, Christine (CarnCorp)	Doyle	Christine	CHRISTINEDO	NULL	NULL	213	Y	Doyle	Christine	CHRISTINEDO	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Doyle, Christine (CarnCorp)	Doyle	Christine	CHRISTINEDO	CC_LEGAL	CORPORATE LEGAL	11619	Y	Doyle	Christine	CHRISTINEDO	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Gordon, Christine (CCL)	Gordon	Christine	CHRISTINEG	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	58181	Y	Gordon	Christine	CHRISTINEG	CCLHR	CCL Human Resources (CCL)	56310	HR Shipboard General (CCL)	Match
+zz (End 6/15/2020) Torres, Christine (CarnCorp)	Torres	Christine	CHRISTINET	CC_CASINO	CORPORATE CASINO	523	N								No Match
+Nelson, Christopher (CCL)	Nelson	Christopher	CHRISTOPHERN	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	69924	Y	Nelson	Christopher	CHRISTOPHERN	CCLGO	CCL Guest Operations (CCL)	53620	Entertainment Management (CCL)	Match
+zz (End 5/16/2019) Torres, Christopher (CCL)	Torres	Christopher	CHRISTOPHERT	CCL_FLT_DPL_DMD_ANA	CCL FLEET DEPLOYMENT DEMAND ANALYTICS & PLANNING	1	N								No Match
+zz (End 6/1/2020) Jaouli, Chelsea (CarnCorp)	Jaouli	Chelsea	CJO2273	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	1	N								No Match
+Kennett, Christopher (CCL)	Kennett	Christopher	CKE1183	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	97	Y	Kennett	Christopher	CKE1183	CCLEX	CCL Executive Offices (CCL)	57100	Executive Office (CCL)	Match
+Lopez, Clara (CCL)	Lopez	Clara	CLARAL	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	298	Y	Lopez	Clara	CLARAL	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+Demirdjian, Claudia (CarnCorp)	Demirdjian	Claudia	CLAUDIAD	CC_TAX	CORPORATE TAX	97	Y	Demirdjian	Claudia	CLAUDIAD	CRPEX	CRP Executive Offices (ABG)	51703	Global Treasury (ABG)	Match
+Garrido, Cleotilde (CCL)	Garrido	Cleotilde	CLEOTILDE	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	1187	Y	Garrido	Cleotilde	CLEOTILDE	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+Mallory, Cedrick (CCL)	Mallory	Cedrick	CMA1915	CCL_ACCT_OPS	CCL ACCOUNTING OPERATIONS	311	Y	Mallory	Cedrick	CMA1915	CCLFI	CCL Finance (CCL)	59400	Revenue Accounting (CCL)	Match
+Corporate Tax Dept Faxes			CORPDEPTFAX	CC_TAX	CORPORATE TAX	2	Y								No Match
+CPS Questions (CCL)	CPS Questions		CPSQUESTIONS	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	1	N								No Match
+CREW ASSISTANCE (CCL)	CREW ASSISTANCE		CREWASSISTANCE	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	44721	Y								No Match
+Crew Cabin Requests			CREWCABINREQUESTS	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	67299	Y								No Match
+Crew Hotels (CCL)	Crew Hotels		CREWHOTELS	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	10	N								No Match
+Crew Travel Pilot Line			CREWTRAVELPILOTLINE	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	1578	Y								No Match
+Benedek, Cristina (CCL)	Benedek	Cristina	CRISTINAB	CCL_MAR_OPS	CCL MARINE OPERATIONS	6532	Y	Benedek	Cristina	CRISTINAB	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Benedek, Cristina (CCL)	Benedek	Cristina	CRISTINAB	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	5144	Y	Benedek	Cristina	CRISTINAB	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+zz (End 11/18/2015) Reus, Cristina (CarnCorp)	Reus	Cristina	CRISTINAF	CC_TAX	CORPORATE TAX	1	N								No Match
+Kulick, Cristina (CCL)	Kulick	Cristina	CRISTINAK	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	16197	Y	Kulick	Cristina	CRISTINAK	CCLHR	CCL Human Resources (CCL)	59820	Learning and Org Development (CCL)	Match
+Benedek, Csaba (CCL)	Benedek	Csaba	CSABAB	CCL_MAR_OPS	CCL MARINE OPERATIONS	51526	Y	Benedek	Csaba	CSABAB	CCLTO	CCL Marine Operations (CCL)	53654	Environmental Operations (CCL)	Match
+zz (End 5/2/2019) Thompson, Christina (Contractor)	Thompson	Christina	CTH7617	CC_LEGAL	CORPORATE LEGAL	1	N								No Match
+zz (End 6/1/2020) Zhao, Christina (CCL)	Zhao	Christina	CZA6354	CC_CASINO	CORPORATE CASINO	798	N								No Match
+Zhindon, Carlos (CarnCorp)	Zhindon	Carlos	CZH7718	CC_CASINO	CORPORATE CASINO	1	Y	Zhindon	Carlos	czh7718	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+Cross, Dale (CCL)	Cross	Dale	DALEC	CCL_IS	CCL Information Systems	7867	Y	Cross	Dale	DALEC	CCLIS	CCL Information Systems (CCL)	52330	IT Sales and Guest Svcs - Ded (CCL)	Match
+Fernandez, Damian (CCL)	Fernandez	Damian	DAMIANF	CCL_CHT_INC_SERV	CCL CHARTER & INCENTIVE SERVICES	778	Y	Fernandez	Damian	DAMIANF	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61109	Group (CCL)	Match
+Dugan, Dana (CarnCorp)	Dugan	Dana	DANAD	CC_ADMIN	CORPORATE ADMINISTRATION	809	Y	Dugan	Dana	DANAD	CRPHR	Corp HR Shoreside (ABG)	51100	Global Human Resources (ABG)	Match
+Dugan, Dana (CarnCorp)	Dugan	Dana	DANAD	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	7992	Y	Dugan	Dana	DANAD	CRPHR	Corp HR Shoreside (ABG)	51100	Global Human Resources (ABG)	Match
+Dugan, Dana (CarnCorp)	Dugan	Dana	DANAD	CC_LEGAL	CORPORATE LEGAL	35	Y	Dugan	Dana	DANAD	CRPHR	Corp HR Shoreside (ABG)	51100	Global Human Resources (ABG)	Match
+Carbonera, Daniele (CarnCorp)	Carbonera	Daniele	DANIELEC	CC_SHP_REF	Corporate Ship Refits	11199	Y	Carbonera	Daniele	DANIELEC	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+zz (End 12/7/2020) Feliciano, Daniel (CCL)	Feliciano	Daniel	DANIELFE	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	3	N								No Match
+Ramirez, Daniel E. (CCL)	Ramirez	Daniel E.	DANIELR	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	1	Y	Ramirez	Daniel	DANIELR	CCLIS	CCL Information Systems (CCL)	52390	Digital Technical Systms - Ded (CCL)	Match
+zz (End 1/29/2021) Barrenechea, Darien (CCL)	Barrenechea	Darien	DARIENB	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	43224	N								No Match
+Schuster, Darren (CarnCorp)	Schuster	Darren	DARRENSC	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	37	Y	Schuster	Darren	DARRENSC	CRPEX	CRP Executive Offices (ABG)	51760	Global Sourcing (ABG)	Match
+zz (End 3/31/2020) Becker, David (CarnCorp)	Becker	David	DAVIDBEC	CC_IT	CORPORATE IT	450	N								No Match
+Bernstein, David (CarnCorp)	Bernstein	David	DAVIDBER	CC_CFO_ORG	CORPORATE CFO ORGANIZATION	1386	Y	Bernstein	David	DAVIDBER	CRPEX	CRP Executive Offices (ABG)	51703	Global Treasury (ABG)	Match
+Brady, David (CCL)	Brady	David	DAVIDBR	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	313	N								No Match
+Candib, David (CarnCorp)	Candib	David	DAVIDCAN	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	332	Y	Candib	David	DAVIDCAN	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+Feyto, David (CarnCorp)	Feyto	David	DAVIDF	CC_SHIP_BUILDING	CORPORATE SHIP BUILDING	6866	Y	Feyto	David	DAVIDF	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+zz (End 6/2/2020) Morrison, David (CarnCorp)	Morrison	David	DAVIDMO	CC_MAR_QA	CORPORATE MARITIME QUALITY ASSURANCE	1535	N								No Match
+zz (End 6/1/2020) Steedman, David (CCL)	Steedman	David	DAVIDS	CCL_GST_OPS	CCL GUEST OPERATIONS	2773	N								No Match
+Smith, David (CCL)	Smith	David	DAVIDSM	CCL_IS	CCL Information Systems	2451	Y	Smith	David	DAVIDSM	CCLIS	CCL Information Systems (CCL)	52330	IT Sales and Guest Svcs - Ded (CCL)	Match
+zz (End 6/18/2021) Fuster, Dayami (CCL)	Fuster	Dayami	DAYAMIF	CCL_CREW_PAY	CCL CREW PAYROLL	1	N								No Match
+Belton, Dylan (CarnCorp)	Belton	Dylan	DBE1329	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	1479	Y								No Match
+zz (End 4/14/2020) Bertinelli, Delia (Contractor)	Bertinelli	Delia	DBE8868	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	1	N								No Match
+zz (End 11/1/2020) Cairns, Devin (Contractor)	Cairns	Devin	DCA3509	CC_LEGAL	CORPORATE LEGAL	1	N								No Match
+Cook, Dana (CarnCorp)	Cook	Dana	DCO5136	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	4724	Y	Cook	Dana	dco5136	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Compton, Deana-Linda (CarnCorp)	Compton	Deana-Linda	DEANAC	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	72	N								No Match
+Document Delete Administrator			DELETEUSER	NULL	NULL	1	Y								No Match
+Document Delete Administrator			DELETEUSER	CC_CASINO	CORPORATE CASINO	2	Y								No Match
+Document Delete Administrator			DELETEUSER	CC_CFO_ORG	CORPORATE CFO ORGANIZATION	6	Y								No Match
+Document Delete Administrator			DELETEUSER	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	7	Y								No Match
+Document Delete Administrator			DELETEUSER	CC_LEGAL	CORPORATE LEGAL	25	Y								No Match
+Document Delete Administrator			DELETEUSER	CC_TAX	CORPORATE TAX	3	Y								No Match
+Document Delete Administrator			DELETEUSER	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	1	Y								No Match
+Document Delete Administrator			DELETEUSER	CCL_PROD_PLNG	CCL PRODUCT PLANNING & ANALYSIS	147	Y								No Match
+Document Delete Administrator			DELETEUSER	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	1	Y								No Match
+zz (End 6/1/2020) Gutierrez, Delsy (CarnCorp)	Gutierrez	Delsy	DELSYG	CC_GARS	CORPORATE GLOBAL ACCOUNTING & REPORTING SERVICES	3861	N								No Match
+Delta Test			DELTAT	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	2	N								No Match
+Denied Boarding Report (CCL)	Denied Boarding Report		DENIEDBOARDING	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	17	Y								No Match
+Barraza-Donado, Denise (CCL)	Barraza-Donado	Denise	DENISEBA	CCL_QLT_FUN_SUP_SRV	CCL QUALITY FUN SUPPORT SERVICES MIA	6	Y	Barraza Donado	Denise	DENISEBA	CCLFP	CCL Commercial Ops and Anlysis (CCL)	63700	Commercial Reporting and Anlys (CCL)	Match
+Munoz, Denise (Contractor)	Munoz	Denise	DENISEM	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	1	Y								No Match
+zz (End 6/1/2020) Jones, Denita (CarnCorp)	Jones	Denita	DENITAJ	CC_MP	CORPORATE MARITIME POLICY	3340	N								No Match
+Hubbard, Derrick (CCL)	Hubbard	Derrick	DERRICKH	CCL_FIN_PLN_RPT_SLS	CCL FINANCIAL PLANNING & REPORTING - SALES	18455	Y	Hubbard	Derrick	DERRICKH	CCLFP	CCL Commercial Ops and Anlysis (CCL)	63700	Commercial Reporting and Anlys (CCL)	Match
+Garces, Daniel (Carncorp)	Garces	Daniel (Carncorp)	DGA2399	CC_TAX	CORPORATE TAX	1338	Y	Garces	Daniel	dga2399	CRPTX	CRP Tax (ABG)	51750	Global Tax (ABG)	Match
+zz (End 1/23/2019) Herrera, Delilah (CCL)	Herrera	Delilah	DHE8066	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	7	N								No Match
+Nodal, Diana (CarnCorp)	Nodal	Diana	DIANAA	CC_TAX	CORPORATE TAX	7942	Y	Nodal	Diana	DIANAA	CRPTX	CRP Tax (ABG)	51750	Global Tax (ABG)	Match
+zz (End 12/3/2020) De Cespedes, Diana (CarnCorp)	De Cespedes	Diana	DIANADE	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	4627	N								No Match
+zz (End 6/1/2020) Frith, Diana (CCL)	Frith	Diana	DIANAF	CCL_GST_OPS	CCL GUEST OPERATIONS	1598	N								No Match
+Jacoby, Diana (CarnCorp)	Jacoby	Diana	DIANAJ	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	75155	Y	Jacoby	Diana	DIANAJ	CRPEX	CRP Executive Offices (ABG)	51760	Global Sourcing (ABG)	Match
+Gomez, Diliara (CCL)	Gomez	Diliara	DILIARAG	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	349	Y	Gomez	Diliara	DILIARAG	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 5/14/2020) Badam, Dinesh (CCL)	Badam	Dinesh	DINESHB	CCL_IS_QC	CCL IS QUALITY CONTROL	1	N								No Match
+Li, Donald (CCL)	Li	Donald	DLI7617	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	1	Y	Li	Zhengyuan	DLI7617	CCLRM	CCL Revenue Management (CCL)	63603	Revenue Mgmt - Decision Supprt (CCL)	Match
+zz (End 1/13/2020) Martin, Diamond (CCL)	Martin	Diamond	DMA1115	CC_LEGAL	CORPORATE LEGAL	1	N								No Match
+zz (End 6/11/2020) Melenciuc, Daniela (Contractor)	Melenciuc	Daniela	DME5906	CC_CASINO	CORPORATE CASINO	2617	N								No Match
+zz (End 6/1/2020) Barros, Dolores (CCL)	Barros	Dolores	DOLORES	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	12698	N								No Match
+Rognoni, Domenico (CCL)	Rognoni	Domenico	DOMENICO	CCL_MAR_OPS	CCL MARINE OPERATIONS	15039	Y	Rognoni	Domenico	DOMENICO	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+zz (End 6/1/2020) Chancellor, Dominic (CCL)	Chancellor	Dominic	DOMINICC	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	1785	N								No Match
+Martis, Dominic (CCL)	Martis	Dominic	DOMINICM	CCL_SEC_SVC	SECURITY SERVICES	39640	Y								No Match
+Ebert, Donna (CCL)	Ebert	Donna	DONNAEB	CCL_FIN_PLN_RPT_SLS	CCL FINANCIAL PLANNING & REPORTING - SALES	517	Y	Ebert	Donna	DONNAEB	CCLFP	CCL Commercial Ops and Anlysis (CCL)	63700	Commercial Reporting and Anlys (CCL)	Match
+Trester, Donna (CCL)	Trester	Donna	DONNAT	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	1061	Y	Trester	Donna	DONNAT	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+Webb, Donnise (CCL)	Webb	Donnise	DONNISED	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	5511	Y	Webb	Donnise	DONNISED	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+Furnari, Doreen S. (CarnCorp)	Furnari	Doreen S.	DOREENF	NULL	NULL	803	Y	Furnari	Doreen	DOREENF	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Furnari, Doreen S. (CarnCorp)	Furnari	Doreen S.	DOREENF	CC_LEGAL	CORPORATE LEGAL	21673	Y	Furnari	Doreen	DOREENF	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+zz (End 6/1/2020) Reyes, Dally (CarnCorp)	Reyes	Dally	DRE8281	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	55	N								No Match
+Spinelli, Diego (CCL)	Spinelli	Diego	DSP1368	CCL_MAR_OPS	CCL MARINE OPERATIONS	32834	Y	Spinelli	Diego	DSP1368	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+zz (End 6/1/2020) Almanza, Ernesto (CarnCorp)	Almanza	Ernesto	EAL7101	CC_CASINO	CORPORATE CASINO	81	N								No Match
+zz (End 1/17/2022) Areas, Emilio (CarnCorp)	Areas	Emilio	EAR6225	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	4	N								No Match
+Diaz, Elizabeth (CCL)	Diaz	Elizabeth	ECA3358	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	5	Y	Diaz	Elizabeth	eca3358	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+zz (End 6/1/2020) Duran, Eduardo (CCL)	Duran	Eduardo	EDUARDOD	CCL_WW_SLS	CCL WORLDWIDE SALES	6917	N								No Match
+zz (End 2/28/2020) Green, Edy (CarnCorp)	Green	Edy	EDYE	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	3112	N								No Match
+Fernandez, Elein (CarnCorp)	Fernandez	Elein	EFE7282	CC_TAX	CORPORATE TAX	400	Y	Fernandez	Elein	efe7282	CRPTX	CRP Tax (ABG)	51750	Global Tax (ABG)	Match
+EHR Administrator			EHRADMIN	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	8	Y								No Match
+Trajkovska, Elena (CCL)	Trajkovska	Elena	ELENAT	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	5	Y	Trajkovska	Elena	ELENAT	CCLDD	CCL Destination Development (CCL)	56900	Operations Management (CCL)	Match
+Cazau, Elizabeth (CCL)	Cazau	Elizabeth	ELIZABETHCA	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	8161	Y	Cazau	Elizabeth	ELIZABETHCA	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 8/12/2019) Vazquez, Elizabeth (CCL)	Vazquez	Elizabeth	ELIZABETHVA	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	5683	N								No Match
+Rodriguez, Ellette (CCL)	Rodriguez	Ellette	ELLETTER	CCL_FIN	CCL FINANCE	2438	Y	Rodriguez	Ellette	ELLETTER	CCLFI	CCL Finance (CCL)	59600	Financial Systems (CCL)	Match
+zz (End 7/6/2021) Calix, Elsy (CCL)	Calix	Elsy	ELSYC	CCL_GPS	GUEST PORT SERVICES	4745	N								No Match
+Martinez-Lanza, Emily (CarnCorp)	Martinez-Lanza	Emily	EMA3134	CC_LEGAL	CORPORATE LEGAL	1	Y	Martinez-Lanza	Emily	ema3134	CRPXI	CRP Global Experience and Innovation (ABG)	51920	Global Experience And Innovation (ABG)	Match
+Colina, Emanuel (CarnCorp)	Colina	Emanuel	EMANUELC	NULL	NULL	44	Y	Colina	Emanuel	EMANUELC	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Colina, Emanuel (CarnCorp)	Colina	Emanuel	EMANUELC	CC_LEGAL	CORPORATE LEGAL	21023	Y	Colina	Emanuel	EMANUELC	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Rufino, Emmanuel (CCL)	Rufino	Emmanuel	EMMANUELR	CCL_MAR_OPS	CCL MARINE OPERATIONS	3969	Y	Rufino	Emmanuel	EMMANUELR	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Miguez, Enrique (CarnCorp)	Miguez	Enrique	ENRIQUEM	NULL	NULL	861	Y	Miguez	Enrique	ENRIQUEM	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Miguez, Enrique (CarnCorp)	Miguez	Enrique	ENRIQUEM	CC_LEGAL	CORPORATE LEGAL	12362	Y	Miguez	Enrique	ENRIQUEM	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Mendoza, Erica (CCL)	Mendoza	Erica	ERICAME	CC_LEGAL	CORPORATE LEGAL	1	Y	Mendoza	Erica	ERICAME	CCLMR	CCL Contact Ctr Sales Miramar (CCL)	63150	Consumer FIT Outbound Sales (CCL)	Match
+Bertsch, Erika (CCL)	Bertsch	Erika	ERIKAB	CCL_MKT_SVCS	CCL MARKETING SERVICES	813	Y	Bertsch	Erika	ERIKAB	CCLMC	CCL Marketing (CCL)	63120	Marketing Management (CCL)	Match
+Douglas, Erin (CCL)	Douglas	Erin	ERINM	CCL_WW_SLS	CCL WORLDWIDE SALES	1	Y	Douglas	Erin	ERINM	CCLDS	CCL Sales and Trade Marketing (CCL)	64721	Strtgic Ptnrshp And Chan Strat (CCL)	Match
+Ethics and Compliance (CarnCorp)	Ethics and Compliance		ETHICSOFFICER	CC_LEGAL	CORPORATE LEGAL	5344	Y								No Match
+zz (End 9/15/2019) Marenco, Eva (CCL)	Marenco	Eva	EVAC	CC_ADMIN	CORPORATE ADMINISTRATION	7416	N								No Match
+zz (End 9/15/2019) Marenco, Eva (CCL)	Marenco	Eva	EVAC	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	508	N								No Match
+zz (End 6/1/2020) Villon, Erika (CCL)	Villon	Erika	EVI2517	CCL_PUR	CCL Purchasing	12436	N								No Match
+zz (End 9/16/2020) Dimarco, Fabio (Contractor)	Dimarco	Fabio	FABIOD	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	15569	N								No Match
+zz (End 12/3/2020) Chance, Francine (CCL)	Chance	Francine	FCH1431	CCL_IS_NET_ARCH_ENG	INFORMATION SYSTEMS NETWORK ARCHITECTURE AND ENGINEERING	1076	N								No Match
+Dedos, Felix (CarnCorp)	Dedos	Felix	FDE5163	CC_CASINO	CORPORATE CASINO	463	Y	Dedos	Felix	fde5163	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+zz (End 6/2/2020) Gazzolo, Federico (CCL)	Gazzolo	Federico	FEDERICOGA	CCL_GST_OPS	CCL GUEST OPERATIONS	3012	N								No Match
+Gutierrez, Felicia (CarnCorp)	Gutierrez	Felicia	FELICIAG	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	165	Y	Gutierrez	Felicia	FELICIAG	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+zz (End 6/1/2020) Dedos, Felix (CarnCorp)	Dedos	Felix	FELIXD	CC_CASINO	CORPORATE CASINO	2167	N								No Match
+Mazzella, Francesco (CCL)	Mazzella	Francesco	FRANCESCOM	CCL_MAR_OPS	CCL MARINE OPERATIONS	79859	Y	Mazzella	Francesco	FRANCESCOM	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Villanueva, Francisco (CCL)	Villanueva	Francisco	FRANCISCOV	CC_FPA	CORPORATE FINANCIAL PLANNING & ANALYSIS	75	Y	Villanueva	Francisco	FRANCISCOV	CCLFI	CCL Finance (CCL)	59900	Financial Planning and Analysis - Strategy (CCL)	Match
+Manyong, Franck (CarnCorp)	Manyong	Franck	FRANCKM	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	16	Y	Manyong	Franck	FRANCKM	CRPHR	Corp HR Shoreside (ABG)	51100	Global Human Resources (ABG)	Match
+zz (End 1/11/2022) Rueda, Florence (CCL)	Rueda	Florence	FRU2798	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	39	N								No Match
+Fuel Procurement (CarnCorp)	Fuel Procurement		FUEL	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	81972	Y								No Match
+Fuel Invoices (CarnCorp)	Fuel Invoices		FUELINVOICES	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	656	Y								No Match
+F.U.N. Team Committee (CCL)	F.U.N. Team Committee		FUNTEAM	CCL_MAR_OPS	CCL MARINE OPERATIONS	1	N								No Match
+zz (End 10/21/2020) Bello, Gabriela (CCL)	Bello	Gabriela	GABRIELAB	CCL_WW_SLS	CCL WORLDWIDE SALES	14	N								No Match
+zz (End 6/24/2019) Tammero, Gabriella (CCL)	Tammero	Gabriella	GABRIELLAT	CCL_IS_QC	CCL IS QUALITY CONTROL	1	N								No Match
+Gigliotti, Gaetano (CCL)	Gigliotti	Gaetano	GAETANOG	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	1	Y	Gigliotti	Gaetano	GAETANOG	CCLFO	CCL FOC and Nautical Operations (CCL)	53611	Nautical Operations (CCL)	Match
+Gorton, Gale (CarnCorp)	Gorton	Gale	GALEG	CC_CASINO	CORPORATE CASINO	1614	Y	Gorton	Gale	GALEG	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+Raghavan, Ganesh (CCL)	Raghavan	Ganesh	GANESHR	NULL	NULL	142	Y								No Match
+zz (End 5/10/2021) Eppinger, Gary (CarnCorp)	Eppinger	Gary	GARYE	CC_IT	CORPORATE IT	2968	N								No Match
+Sadhir, Gatha (CCL)	Sadhir	Gatha	GATHAS	CCL_IS_QC	CCL IS QUALITY CONTROL	35	Y	Sadhir	Gatha	GATHAS	CCLIS	CCL Information Systems (CCL)	52530	Quality Engineering - Ded (CCL)	Match
+Campbell, Geraldine (CarnCorp)	Campbell	Geraldine	GCA4907	CC_CASINO	CORPORATE CASINO	388	Y	Campbell	Geraldine	gca4907	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+GCO Payroll (CCL)	GCO Payroll		GCOPAYROLL	CC_CASINO	CORPORATE CASINO	3418	N								No Match
+Davidson, Garrett (CarnCorp)	Davidson	Garrett	GDA1212	CC_TAX	CORPORATE TAX	1	Y	Davidson	Garrett	gda1212	CRPTX	CRP Tax (ABG)	51750	Global Tax (ABG)	Match
+Breissinger, George (Contractor)	Breissinger	George	GEORGEB	CCL_IS_CFG_MGMT	CCL IS CONFIGURATION MANAGEMENT	152	Y								No Match
+Lupea, George (CCL)	Lupea	George	GEORGELU	CCL_IS_QC	CCL IS QUALITY CONTROL	10	Y	Lupea	George	GEORGELU	CCLIS	CCL Information Systems (CCL)	52490	IT Shipbrd Technologies (CCL)	Match
+Varghese, George (CCL)	Varghese	George	GEORGEV	CCL_PUR	CCL Purchasing	1	Y	Varghese	George	GEORGEV	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+Varghese, George (CCL)	Varghese	George	GEORGEV	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	17937	Y	Varghese	George	GEORGEV	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+Pitsikas, Georgios (CCL)	Pitsikas	Georgios	GEORGIOSP	CCL_MAR_OPS	CCL MARINE OPERATIONS	78368	Y	Pitsikas	Georgios	GEORGIOSP	CCLTO	CCL Marine Operations (CCL)	53675	Marine Ops Plng And Budgeting (CCL)	Match
+zz (End 6/1/2020) Campbell, Geraldine (CarnCorp)	Campbell	Geraldine	GERALDINEC	CC_CASINO	CORPORATE CASINO	569	N								No Match
+Mohrke, Gerda (Contractor)	Mohrke	Gerda	GERDAM	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	184	Y								No Match
+			GIANG	CC_TAX	CORPORATE TAX	1	Y								No Match
+Gift Card Research (CCL)	Gift Card Research		GIFTCARDRESEARCH	CCL_ACCT_OPS	CCL ACCOUNTING OPERATIONS	9824	N								No Match
+zz (End 2/12/2019) Stearns, Gina (CCL)	Stearns	Gina	GINAN	CCL_FLT_DPL_DMD_ANA	CCL FLEET DEPLOYMENT DEMAND ANALYTICS & PLANNING	19	N								No Match
+Israel, Giora (CarnCorp)	Israel	Giora	GIORAI	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	12	Y	Israel	Giora	GIORAI	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+Baluce, Giovanni (CarnCorp)	Baluce	Giovanni	GIOVANNIB	CC_SHIP_BUILDING	CORPORATE SHIP BUILDING	1	Y	Baluce	Giovanni	GIOVANNIB	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+Masuri, Giovanni (CCL)	Masuri	Giovanni	GIOVANNIM	CCL_GST_COMM	CCL GUEST COMMERCE	1	Y	Masuri	Giovanni	GIOVANNIM	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Pillay, Girija (CarnCorp)	Pillay	Girija	GIRIJAP	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	30787	Y	Pillay	Girija	GIRIJAP	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Mazzilli, Gisella (CarnCorp)	Mazzilli	Gisella	GISELLAM	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	436	Y	Mazzilli	Gisella	GISELLAM	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+Aprile, Glenn (CCL)	Aprile	Glenn	GLENNAP	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	4485	Y	Aprile	Glenn	GLENNAP	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Global Casino Operations Kronos (CarnCorp)	Global Casino Operations Kronos		GLOBALCASINOOPSKRONO	CC_CASINO	CORPORATE CASINO	6096	N								No Match
+Global Supplier Maintenance			GLOBALSUPPLIERMAINTE	CC_TREASURY	CORPORATE TREASURY	69854	Y								No Match
+Global Tax			GLOBALTAX	CC_TAX	CORPORATE TAX	1	N								No Match
+Gupta, Gorav (CCL)	Gupta	Gorav	GORAVG	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	1	Y	Gupta	Gorav	GORAVG	CCLIS	CCL Information Systems (CCL)	52330	IT Sales and Guest Svcs - Ded (CCL)	Match
+zz (End 8/20/2021) Boyce, Gregory (CCL)	Boyce	Gregory	GREGORYBO	CCL_FPA	CCL FINANCIAL PLANNING & ANALYSIS	378	N								No Match
+zz (End 6/1/2020) Poplewko, Greg (CCL)	Poplewko	Greg	GREGP	CCL_PRD_DEV	CCL PRODUCT DEVELOPMENT	11225	N								No Match
+Segni, Giovanni (CCL)	Segni	Giovanni	GSE5321	CC_ADMIN	CORPORATE ADMINISTRATION	48	Y								No Match
+Segni, Giovanni (CCL)	Segni	Giovanni	GSE5321	CCL_MAR_OPS	CCL MARINE OPERATIONS	1	Y								No Match
+Runzler, Gunther (CCL)	Runzler	Gunther	GUNTHERR	CCL_GST_COMM	CCL GUEST COMMERCE	1	Y	Runzler	Gunther	GUNTHERR	CCLSO	CCL Sourcing and Supply Chain (CCL)	56600	Receiving Department (CCL)	Match
+Runzler, Gunther (CCL)	Runzler	Gunther	GUNTHERR	CCL_RECEIVING	CCL RECEIVING DEPARTMENT	29786	Y	Runzler	Gunther	GUNTHERR	CCLSO	CCL Sourcing and Supply Chain (CCL)	56600	Receiving Department (CCL)	Match
+CASINO ACCOUNTING FILES (HAL)			HALCASINOACCOUNTING	CC_CASINO	CORPORATE CASINO	673	Y								No Match
+Dixon, Hampton (CCL)	Dixon	Hampton	HAMPTOND	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	1088	Y	Dixon	Hampton	HAMPTOND	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 6/1/2020) Belmonte, Heather (CarnCorp)	Belmonte	Heather	HBE8673	CC_MAR_QA	CORPORATE MARITIME QUALITY ASSURANCE	5159	N								No Match
+zz (End 5/11/2019) Tabscott, Heide (Contractor)	Tabscott	Heide	HEIDET	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	35	N								No Match
+Sanchez, Henry (CCL)	Sanchez	Henry	HENRYS	CCL_PROD_PLNG	CCL PRODUCT PLANNING & ANALYSIS	5967	Y	Sanchez	Enrique	HENRYS	CCLRM	CCL Revenue Management (CCL)	63601	Revenue Management (CCL)	Match
+Verma, Himanshu (Contractor)	Verma	Himanshu	HIMANSHUV	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	5	Y								No Match
+Health Operation Center (HOC)			HOC	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	71	Y								No Match
+Hotel Design			HOTELDESIGN	CCL_GST_COMM	CCL GUEST COMMERCE	3	Y								No Match
+zz (End 5/31/2020) Palle, Hepsiba (Contractor)	Palle	Hepsiba	HPA5339	CCL_IS_QC	CCL IS QUALITY CONTROL	4	N								No Match
+Velasquez, Humberto (CCL)	Velasquez	Humberto	HUMBERTOVE	CCL_MAR_OPS	CCL MARINE OPERATIONS	1548	Y	Velasquez	Humberto	HUMBERTOVE	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Weeter, Heather (CarnCorp)	Weeter	Heather	HWE2516	NULL	NULL	153	Y	Weeter	Heather	HWE2516	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Weeter, Heather (CarnCorp)	Weeter	Heather	HWE2516	CC_LEGAL	CORPORATE LEGAL	6309	Y	Weeter	Heather	HWE2516	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Battisti, Ilio (CCL)	Battisti	Ilio	IBA6269	CCL_MAR_OPS	CCL MARINE OPERATIONS	1	Y	Battisti	Ilio	iba6269	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Murga, Ignacio (CCL)	Murga	Ignacio	IGNACIOM	CCL_FIN	CCL FINANCE	1147	Y	Murga	Ignacio	IGNACIOM	CCLSO	CCL Sourcing and Supply Chain (CCL)	58300	Purchasing (CCL)	Match
+Murga, Ignacio (CCL)	Murga	Ignacio	IGNACIOM	CCL_PUR	CCL Purchasing	35125	Y	Murga	Ignacio	IGNACIOM	CCLSO	CCL Sourcing and Supply Chain (CCL)	58300	Purchasing (CCL)	Match
+Diaz, Ileana (CCL)	Diaz	Ileana	ILEANAC	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	27163	Y	Diaz	Ileana	ILEANAC	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+Lane, Ingrid (CCL)	Lane	Ingrid	INGRIDH	CCL_FIN	CCL FINANCE	15	Y	Hoyt	Ingrid	INGRIDH	CCLFI	CCL Finance (CCL)	59400	Revenue Accounting (CCL)	Match
+zz (End 3/7/2019) Torres, Ingrid (CCL)	Torres	Ingrid	INGRIDT	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	365	N								No Match
+Investor Relations (CarnCorp)	Investor Relations		INVEST	CC_INV_REL	CORPORATE INVESTOR RELATIONS	3	Y								No Match
+Jofre, Irene (CarnCorp)	Jofre	Irene	IRENEJ	CC_MKT	CORPORATE MARKETING	4866	Y								No Match
+Puga Del Valle, Irene (CCL)	Puga Del Valle	Irene	IRENEP	CCL_AP	CCL ACCOUNTS PAYABLE	244	Y	Puga Del Valle	Irene	IRENEP	CCLFI	CCL Finance (CCL)	59200	Accounts Payable (CCL)	Match
+Puga Del Valle, Irene (CCL)	Puga Del Valle	Irene	IRENEP	CCL_FIN	CCL FINANCE	921	Y	Puga Del Valle	Irene	IRENEP	CCLFI	CCL Finance (CCL)	59200	Accounts Payable (CCL)	Match
+Ramallo, Isabel (CCL)	Ramallo	Isabel	ISABELG	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	55289	Y	Ramallo	Isabel	ISABELG	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+Turcu, Inga (CarnCorp)	Turcu	Inga	ITU3738	CC_CASINO	CORPORATE CASINO	8544	Y	Turcu	Inga	ITU3738	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+Donado, Ivette (CCL)	Donado	Ivette	IVETTED	CCL_MAR_OPS	CCL MARINE OPERATIONS	3174	Y	Donado	Ivette	IVETTED	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+zz (End 5/14/2020) Villalon, Ivonne (CCL)	Villalon	Ivonne	IVONNEV	CCL_QLT_FUN_SUP_SRV	CCL QUALITY FUN SUPPORT SERVICES MIA	3802	N								No Match
+Arampillykudy, Jacob P. (CCL)	Arampillykudy	Jacob P.	JACOBA	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	30806	Y	ArampillyKudy	Jacob	JACOBA	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+zz (End 8/16/2019) Wilson-Oluyemi, Jacqueline (CCL)	Wilson-Oluyemi	Jacqueline	JACQUELINEW	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	5856	N								No Match
+zz (End 12/7/2020) Aguilar, Johana (CCL)	Aguilar	Johana	JAG7510	CCL_GST_CARE_TM	CCL GUEST CARE TEAM	14711	N								No Match
+Jose, Jaison (CarnCorp)	Jose	Jaison	JAISONJ	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	10958	Y	Jose	Jaison	JAISONJ	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+zz (End 9/30/2015) Border, Jim (CarnCorp)	Border	Jim	JAMESB	CC_TAX	CORPORATE TAX	2	N								No Match
+zz (End 2/7/2019) Riccio, James (CCL)	Riccio	James	JAMESRI	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	2293	N								No Match
+zz (End 6/1/2020) Holzer, Janaina (CarnCorp)	Holzer	Janaina	JANAINAH	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	16330	N								No Match
+zz (End 10/24/2020) Padron, Janet M. (CarnCorp)	Padron	Janet M.	JANETP	CC_TAX	CORPORATE TAX	10356	N								No Match
+zz (End 1/4/2022) Reeves, Janet (CCL)	Reeves	Janet	JANETR	CCL_PUR	CCL Purchasing	163	N								No Match
+zz (End 6/16/2021) Harper, Jason (CarnCorp)	Harper	Jason	JASONHA	CCL_IS_SHIP_TECH	CCL IS SHIPBOARD TECHNOLOGY	709	N								No Match
+Bhogi, Jayaram (CCL)	Bhogi	Jayaram	JAYARAMB	CCL_IS_PMO	CCL IS PMO	60	Y	Bhogi	Jayaram	JAYARAMB	CCLIS	CCL Information Systems (CCL)	52390	Digital Technical Systms - Ded (CCL)	Match
+Capelao Lourenco, Jose (CarnCorp)	Capelao Lourenco	Jose	JCA1500	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	50102	Y	Capelao Lourenco	Jose	jca1500	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+zz (End 4/29/2019) Cotton, James (CCL)	Cotton	James	JCO2894	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	182	N								No Match
+Davis, Jared (CarnCorp)	Davis	Jared	JDA4605	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	1	Y	Davis	Jared	jda4605	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Denham, Joseph (CCL)	Denham	Joseph	JDE3621	CC_ADMIN	CORPORATE ADMINISTRATION	278	Y	Denham	Joseph	jde3621	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+Denham, Joseph (CCL)	Denham	Joseph	JDE3621	CCL_MAR_OPS	CCL MARINE OPERATIONS	10	Y	Denham	Joseph	jde3621	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+Devia, Juan Pablo (CarnCorp)	Devia	Juan Pablo	JDE5474	CC_ADMIN	CORPORATE ADMINISTRATION	7338	Y	Devia	Juan Pablo	JDE5474	CRPEX	CRP Executive Offices (ABG)	51760	Global Sourcing (ABG)	Match
+Devia, Juan Pablo (CarnCorp)	Devia	Juan Pablo	JDE5474	CCL_PUR	CCL Purchasing	10689	Y	Devia	Juan Pablo	JDE5474	CRPEX	CRP Executive Offices (ABG)	51760	Global Sourcing (ABG)	Match
+Dominguez, Juan (CCL)	Dominguez	Juan	JDO6480	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	1	Y	Dominguez	Juan	jdo6480	CCLHR	CCL Human Resources (CCL)	59804	Compensation and Benefits (CCL)	Match
+zz (End 3/5/2021) Perez, Jeannette (CCL)	Perez	Jeannette	JEANNETT	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	2194	N								No Match
+Maldonado, Patricia (CarnCorp)	Maldonado	Patricia	JEANNETTEM	CC_CASINO	CORPORATE CASINO	2245	Y	Maldonado	Jeannette	JEANNETTEM	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+Colangelo, Jeffrey (Contractor)	Colangelo	Jeffrey	JEFFREYC	CCL_IS_TSO	CCL IS TECHNICAL SUPPORT OPERATIONS (TSO)	750	Y								No Match
+Gottlieb, Jeffrey (CarnCorp)	Gottlieb	Jeffrey	JEFFREYG	NULL	NULL	5513	Y	Gottlieb	Jeffrey	JEFFREYG	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Gottlieb, Jeffrey (CarnCorp)	Gottlieb	Jeffrey	JEFFREYG	CC_ADMIN	CORPORATE ADMINISTRATION	4	Y	Gottlieb	Jeffrey	JEFFREYG	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Gottlieb, Jeffrey (CarnCorp)	Gottlieb	Jeffrey	JEFFREYG	CC_LEGAL	CORPORATE LEGAL	71957	Y	Gottlieb	Jeffrey	JEFFREYG	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Kazi, Jelena (CarnCorp)	Kazi	Jelena	JELENAE	CC_CASINO	CORPORATE CASINO	62194	Y	Kazi	Jelena	JELENAE	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+zz (End 9/27/2019) English, Jermaine (CCL)	English	Jermaine	JEN6883	CCL_WW_SLS	CCL WORLDWIDE SALES	4168	N								No Match
+zz (End 1/17/2022) Augustin, Jerry (CarnCorp)	Augustin	Jerry	JERRYA	CC_TAX	CORPORATE TAX	1209	N								No Match
+Cadaing, Jesper (CCL)	Cadaing	Jesper	JESPERC	CCL_MAR_OPS	CCL MARINE OPERATIONS	1494	Y								No Match
+Aneiros-Perez, Jessica (CCL)	Aneiros-Perez	Jessica	JESSICAA	CCL_GPS	GUEST PORT SERVICES	223	Y	Aneiros-Perez	Jessica	JESSICAA	CCLGO	CCL Guest Operations (CCL)	61505	Guest Port Services (CCL)	Match
+zz (End 6/1/2020) Barrera, Jessica (CarnCorp)	Barrera	Jessica	JESSICABA	CC_MAR_QA	CORPORATE MARITIME QUALITY ASSURANCE	2312	N								No Match
+Del pino, Jessica (CarnCorp)	Del pino	Jessica	JESSICADELP	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	6873	Y	Del Pino	Jessica	JESSICADELP	CRPHR	Corp HR Shoreside (ABG)	51100	Global Human Resources (ABG)	Match
+Gonzalez, Jessica (CCL)	Gonzalez	Jessica	JESSICAGO	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	99	Y	Gonzalez	Jessica	JESSICAGO	CCLGO	CCL Guest Operations (CCL)	53620	Entertainment Management (CCL)	Match
+zz (End 4/9/2020) Lopez, Jesus (CCL)	Lopez	Jesus	JESUSLO	CCL_RECEIVING	CCL RECEIVING DEPARTMENT	879	N								No Match
+zz (End 12/7/2020) Suero, Jewerly (CarnCorp)	Suero	Jewerly	JEWERLYS	CC_CASINO	CORPORATE CASINO	4	N								No Match
+Geertsen, John (CCL)	Geertsen	John	JGE6472	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	1	Y	Geertsen	John	jge6472	CCLGO	CCL Guest Operations (CCL)	53620	Entertainment Management (CCL)	Match
+Grajales Duray, Julio (CCL)	Grajales Duray	Julio	JGR2696	CC_ADMIN	CORPORATE ADMINISTRATION	2890	Y	Grajales Duray	Julio	JGR2696	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+Grajales Duray, Julio (CCL)	Grajales Duray	Julio	JGR2696	CCL_MAR_OPS	CCL MARINE OPERATIONS	28248	Y	Grajales Duray	Julio	JGR2696	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+zz (End 10/26/2020) Kelly, Joellen (CCL)	Kelly	Joellen	JKE6309	CC_CASINO	CORPORATE CASINO	161	N								No Match
+Lejuez, Josie (CCL)	Lejuez	Josie	JLE1323	CC_ADMIN	CORPORATE ADMINISTRATION	4073	Y	Lejuez	Josephine	jle1323	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+Lejuez, Josie (CCL)	Lejuez	Josie	JLE1323	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	2361	Y	Lejuez	Josephine	jle1323	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+zz (End 12/7/2020) Lopez, Jonathan (CCL)	Lopez	Jonathan	JLO9272	CC_CASINO	CORPORATE CASINO	18	N								No Match
+Min, Jae-Hong (CarnCorp)	Min	Jae-Hong	JMI2339	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	51595	Y	Min	Jae-Hong	jmi2339	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Kahn, Joannie (CCL)	Kahn	Joannie	JOANCH	CCL_SHR_RSC_GRP	CCL SHARE RESOURCE GROUPS	16206	Y	Kahn	Joan	JOANCH	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61400	Services (CCL)	Match
+zz (End 2/18/2021) James, Joanne (CarnCorp)	James	Joanne	JOANNEJA	CC_MKT	CORPORATE MARKETING	3803	N								No Match
+Suzal, Jo-Ann (CarnCorp)	Suzal	Jo-Ann	JO-ANNS	CC_FPA	CORPORATE FINANCIAL PLANNING & ANALYSIS	1	Y	Suzal	Jo Ann	JO-ANNS	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+Blandford, Jocelyn (CCL)	Blandford	Jocelyn	JOCELYNB	NULL	NULL	109	Y	Blandford	Jocelyn	JOCELYNB	CCLGO	CCL Guest Operations (CCL)	53620	Entertainment Management (CCL)	Match
+Blandford, Jocelyn (CCL)	Blandford	Jocelyn	JOCELYNB	CC_ADMIN	CORPORATE ADMINISTRATION	40	Y	Blandford	Jocelyn	JOCELYNB	CCLGO	CCL Guest Operations (CCL)	53620	Entertainment Management (CCL)	Match
+Blandford, Jocelyn (CCL)	Blandford	Jocelyn	JOCELYNB	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	53	Y	Blandford	Jocelyn	JOCELYNB	CCLGO	CCL Guest Operations (CCL)	53620	Entertainment Management (CCL)	Match
+Cordero, Jodi (CCL)	Cordero	Jodi	JODIL	CCL_CON_SLS_PVP	CCL CONSUMER SALES PVP	5403	Y	Cordero	Jodi	JODIL	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61109	Group (CCL)	Match
+Butchko, John (CCL)	Butchko	John	JOHNBU	CCL_SEC_SVC	SECURITY SERVICES	708	Y	Butchko	John	JOHNBU	CCLSS	CCL Security Services (CCL)	55200	Security Services (CCL)	Match
+Cushing, John (CarnCorpAudit)	Cushing	John	JOHNCU	CC_AUDIT_SERVICES	MANAGEMENT ADVISORY SERVICES	96	Y	Cushing	John S	JOHNCU	CRPAU	Corp Risk Advisory And Assuran (ABG)	51400	Risk Advisory And Assurance (ABG)	Match
+Haeflinger, John (CarnCorp)	Haeflinger	John	JOHNHAE	CC_ADMIN	CORPORATE ADMINISTRATION	13754	Y	Haeflinger	John	JOHNHAE	CRPEX	CRP Executive Offices (ABG)	51971	Maritime Policy And Analysis (ABG)	Match
+Haeflinger, John (CarnCorp)	Haeflinger	John	JOHNHAE	CC_MP	CORPORATE MARITIME POLICY	8755	Y	Haeflinger	John	JOHNHAE	CRPEX	CRP Executive Offices (ABG)	51971	Maritime Policy And Analysis (ABG)	Match
+Masseria, John (CarnCorp)	Masseria	John	JOHNMA	CCL_IS_ARCH_PRF	INFORMATION SYSTEMS ARCHITECTURE AND PERFORMANCE	3	Y	Masseria	John	JOHNMA	CCLIS	CCL Information Systems (CCL)	52910	Cloud Office - Shrd (CCL)	Match
+Mcgillicuddy, Jonathan (CarnCorp)	Mcgillicuddy	Jonathan	JONATHANM	CC_MAR_QA	CORPORATE MARITIME QUALITY ASSURANCE	3058	Y	Mcgillicuddy	Jonathan	JONATHANM	CRPEX	CRP Executive Offices (ABG)	51971	Maritime Policy And Analysis (ABG)	Match
+zz (End 4/14/2021) Colon, Jose (CCL)	Colon	Jose	JOSECO	CCL_IS_PMO	CCL IS PMO	3298	N								No Match
+zz (End 6/1/2020) Depadua, Jose (CCL)	Depadua	Jose	JOSED	CCL_MAR_OPS	CCL MARINE OPERATIONS	38921	N								No Match
+zz (End 11/10/2019) Fernandez, Jose (CarnCorp)	Fernandez	Jose	JOSEFERN	CC_LEGAL	CORPORATE LEGAL	185	N								No Match
+Hernandez, Jose (CCL)	Hernandez	Jose	JOSEHE	CCL_MAR_OPS	CCL MARINE OPERATIONS	21012	Y	Hernandez	Jose	JOSEHE	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+Weinstein, Josh (CarnCorp)	Weinstein	Josh	JOSHUAW	CC_TREASURY	CORPORATE TREASURY	4	Y	Weinstein	Joshua	JOSHUAW	CRPEX	CRP Executive Offices (ABG)	51709	Office of the COO (ABG)	Match
+Garcia, Josue (CarnCorp)	Garcia	Josue	JOSUEG	CC_LEGAL	CORPORATE LEGAL	15538	Y	Garcia	Josue	JOSUEG	CRPEX	CRP Executive Offices (ABG)	51974	Ethics and Compliance (ABG)	Match
+zz (End 6/1/2020) Penuela, Jou (CCL)	Penuela	Jou	JOUP	CCL_FIN_SHIP_OPS	CCL FINANCE SHIPBOARD OPERATIONS	345	N								No Match
+Badua, Joyce P. (CCL)	Badua	Joyce P.	JOYCEB	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	6059	Y	Badua	Joyce	JOYCEB	CCLFP	CCL Commercial Ops and Anlysis (CCL)	61701	Shrd Cntc Ctr Ops Sus - Mia (CCL)	Match
+Scott, Joseph (CarnCorp)	Scott	Joseph	JSC4490	NULL	NULL	1	Y	Scott	Joseph	jsc4490	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Scott, Joseph (CarnCorp)	Scott	Joseph	JSC4490	CC_LEGAL	CORPORATE LEGAL	1	Y	Scott	Joseph	jsc4490	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Scott, Joseph (CarnCorp)	Scott	Joseph	JSC4490	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	15657	Y	Scott	Joseph	jsc4490	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Suero, Jewerly (CarnCorp)	Suero	Jewerly	JSU5660	CC_CASINO	CORPORATE CASINO	4419	Y	Suero	Jewerly	jsu5660	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+zz (End 4/3/2020) Fernandez, Juan (CarnCorp)	Fernandez	Juan	JUANF	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	1	N								No Match
+Prodhomme, Julien (CarnCorp)	Prodhomme	Julien	JULIENP	CC_SHIP_BUILDING	CORPORATE SHIP BUILDING	3317	Y	Prodhomme	Julien	JULIENP	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+zz (End 11/22/2019) Aira, Julio (CCL)	Aira	Julio	JULIOA	CC_CASINO	CORPORATE CASINO	163	N								No Match
+Falagan, Julio (CCL)	Falagan	Julio	JULIOF	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	96623	Y	Falagan	Julio	JULIOF	CCLSO	CCL Sourcing and Supply Chain (CCL)	56600	Receiving Department (CCL)	Match
+Ramirez, Jyniva (CCL)	Ramirez	Jyniva	JYNIVAR	CCL_PUR	CCL Purchasing	14294	Y	Ramirez	Jyniva	JYNIVAR	CCLSO	CCL Sourcing and Supply Chain (CCL)	58300	Purchasing (CCL)	Match
+Zaldivar, Jessica-Lynn (CarnCorp)	Zaldivar	Jessica-Lynn	JZA2379	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	17959	Y	Zaldivar	Jessica-Lynn	JZA2379	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Sheppard, Kaila (CCL)	Sheppard	Kaila	KAILAS	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	957	Y	Sheppard	Kaila	KAILAS	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61414	Charters Meetings and Incentiv (CCL)	Match
+zz (End 6/1/2020) Pickett, Kaitlyn (CarnCorp)	Pickett	Kaitlyn	KAITLYNK	CC_CASINO	CORPORATE CASINO	2	N								No Match
+Morales, Karina (CCL)	Morales	Karina	KARINAM	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	4377	Y	Morales	Karina	KARINAM	CCLFP	CCL Commercial Ops and Anlysis (CCL)	61701	Shrd Cntc Ctr Ops Sus - Mia (CCL)	Match
+zz (End 8/25/2019) Gonzalez-Ferregur, Karla (CCL)	Gonzalez-Ferregur	Karla	KARLAGO	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	929	N								No Match
+Charles, Kathleen (CCL)	Charles	Kathleen	KATHLEENCH	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	118	Y	Charles	Kathleen	KATHLEENCH	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+zz (End 6/1/2020) Hernandez, Kathy (CCL)	Hernandez	Kathy	KATHY	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	9220	N								No Match
+zz (End 1/18/2012) Lenz-Portu, Kathy (CarnCorp)	Lenz-Portu	Kathy	KATHYLE	CC_TAX	CORPORATE TAX	2	N								No Match
+Austin, Karl (CarnCorp)	Austin	Karl	KAU5993	CC_ADMIN	CORPORATE ADMINISTRATION	2350	Y	Austin	Karl	kau5993	CRPEX	CRP Executive Offices (ABG)	51971	Maritime Policy And Analysis (ABG)	Match
+Parrish, Keshaunda (CCL)	Parrish	Keshaunda	KESHAUNDAP	CCL_WF_PLN_MIA_SLS	CCL - WORK FORCE PLANNING MIA SALES	4490	Y	Parrish	Keshaunda	KESHAUNDAP	CCLFP	CCL Commercial Ops and Anlysis (CCL)	61700	Shrd Cntc Ctr Ops Wf Plan -Mia (CCL)	Match
+zz (End 8/20/2021) Chevalier, Ketty Alexandra (CCL)	Chevalier	Ketty Alexandra	KETTYC	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	1	N								No Match
+Hoffman, Kaleigh (CCL)	Hoffman	Kaleigh	KHO3768	CCL_MAR_OPS	CCL MARINE OPERATIONS	15993	Y	Hoffman	Kaleigh	kho3768	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+zz (End 12/7/2020) Ramirez, Kimberly (CarnCorp)	Ramirez	Kimberly	KIMBERLEYR	CC_CASINO	CORPORATE CASINO	5600	N								No Match
+Macpherson, Kerry (CCL)	Macpherson	Kerry	KMA4980	CCL_PUR	CCL Purchasing	4982	Y	MacPherson	Kerry	kma4980	CCLSO	CCL Sourcing and Supply Chain (CCL)	58320	Strategic Sourcing (CCL)	Match
+Lonich, Kristen (CarnCorp)	Lonich	Kristen	KRISTENLO	CC_ADMIN	CORPORATE ADMINISTRATION	127	Y	Lonich	Kristen	KRISTENLO	CRPAU	Corp Risk Advisory And Assuran (ABG)	51400	Risk Advisory And Assurance (ABG)	Match
+Lonich, Kristen (CarnCorp)	Lonich	Kristen	KRISTENLO	CCL_MAR_OPS	CCL MARINE OPERATIONS	6920	Y	Lonich	Kristen	KRISTENLO	CRPAU	Corp Risk Advisory And Assuran (ABG)	51400	Risk Advisory And Assurance (ABG)	Match
+Sahu, Kamal (Contractor)	Sahu	Kamal	KSA3944	CCL_IS_END_USER_SUPP	CCL IS END USER SUPPORT DEPARTMENT	3	Y								No Match
+Saran, Kshitij (CCL)	Saran	Kshitij	KSHITIJS	CCL_MAR_OPS	CCL MARINE OPERATIONS	1	Y								No Match
+zz (End 6/1/2020) Xavier, Katerine (CarnCorp)	Xavier	Katerine	KXA4568	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	10972	N								No Match
+Vessel Landings (CCL)	Vessel Landings		LANDINGS	CCL_RECEIVING	CCL RECEIVING DEPARTMENT	481	Y								No Match
+Vessel Landings (CCL)	Vessel Landings		LANDINGS	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	2771	Y								No Match
+Shen, Lan (CarnCorp)	Shen	Lan	LANS	CCL_IS_UNIX_STG_ENG	CCL IS UNIX AND STORAGE ENGINEERING	47	Y	Shen	Lan	LANS	CCLIS	CCL Information Systems (CCL)	52520	Network Connectivity Solutions and Operations (CCL)	Match
+Buttrill, Laura (CCL)	Buttrill	Laura	LAURAB	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	56983	Y	Buttrill	Laura	LAURAB	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+zz (End 6/2/2020) Lodge, Laura (CCL)	Lodge	Laura	LAURAL	CCL_SEC_SVC	SECURITY SERVICES	92	N								No Match
+zz (End 2/28/2020) Dorsheimer, Lauren (CarnCorp)	Dorsheimer	Lauren	LAUREND	CC_CASINO	CORPORATE CASINO	1	N								No Match
+Cruz, Laura (CarnCorp)	Cruz	Laura	LCR6858	CC_ADMIN	CORPORATE ADMINISTRATION	113	Y	Cruz	Laura	lcr6858	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Cruz, Laura (CarnCorp)	Cruz	Laura	LCR6858	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	537	Y	Cruz	Laura	lcr6858	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Legal Fax (CCL)	Legal Fax		LEGALFAX	CC_LEGAL	CORPORATE LEGAL	3	Y								No Match
+zz (End 6/1/2020) Mulinare, Leigh (CCL)	Mulinare	Leigh	LEIGHM	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	47701	N								No Match
+zz (End 12/3/2020) Pereda, Leslie (CCL)	Pereda	Leslie	LESLIEP	CCL_GST_OPS	CCL GUEST OPERATIONS	1	N								No Match
+Alvarado, Lexi (CarnCorp)	Alvarado	Lexi	LEXIA	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	1626	Y	Alvarado	Lexi	LEXIA	CRPEX	CRP Executive Offices (ABG)	51974	Ethics and Compliance (ABG)	Match
+Darias, Leyse (CCL)	Darias	Leyse	LEYSED	CCL_MAR_OPS	CCL MARINE OPERATIONS	16314	Y	Darias	Leyse	LEYSED	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+zz (End 1/20/2020) Chang, Nelson (CCL)	Chang	Nelson	LIANGJOU	CCL_REV_MGMT	CCL REVENUE MANAGEMENT	270	N								No Match
+zz (End 12/3/2020) Moore, Lidia (CCL)	Moore	Lidia	LIDIAM	CCL_IS_FIN_CRP	CCL IS Finance & Corporate Systems	14	N								No Match
+Palenzuela, Liliana (CarnCorp)	Palenzuela	Liliana	LILIANAP	NULL	NULL	4	Y	Palenzuela	Liliana	LILIANAP	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+Palenzuela, Liliana (CarnCorp)	Palenzuela	Liliana	LILIANAP	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	2111	Y	Palenzuela	Liliana	LILIANAP	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+Palenzuela, Liliana (CarnCorp)	Palenzuela	Liliana	LILIANAP	CCL_FIN	CCL FINANCE	7290	Y	Palenzuela	Liliana	LILIANAP	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+Muller, Lillian (CCL)	Muller	Lillian	LILLIANM	CCL_FIN_PLN_RPT_SLS	CCL FINANCIAL PLANNING & REPORTING - SALES	60301	Y	Muller	Lillian	LILLIANM	CCLFP	CCL Commercial Ops and Anlysis (CCL)	63700	Commercial Reporting and Anlys (CCL)	Match
+zz (End 7/28/2021) Shaw, Lindsey (CCL)	Shaw	Lindsey	LINDSEYS	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	2631	N								No Match
+Dyer, Lisa (CCL)	Dyer	Lisa	LISADY	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	201	Y	Dyer	Lisa	LISADY	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+Mccabe, Lisa (CCL)	Mccabe	Lisa	LISAMCC	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	9623	Y	Mccabe	Lisa	LISAMCC	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Mcpherson, Lisa Ann (CCL)	Mcpherson	Lisa Ann	LISAMCP	CCL_FAC	BUILDING FACILITIES	27595	Y	Lyew-Mcpherson	Lisa Ann	LISAMCP	CCLSO	CCL Sourcing and Supply Chain (CCL)	52900	Office Services (CCL)	Match
+zz (End 6/1/2020) Puentes, Liset (CCL)	Puentes	Liset	LISETP	CCL_FIN	CCL FINANCE	2197	N								No Match
+Cruz, Lissette (CarnCorp)	Cruz	Lissette	LISSETTE	CC_TAX	CORPORATE TAX	5425	Y	Cruz	Lissette	LISSETTE	CRPTX	CRP Tax (ABG)	51750	Global Tax (ABG)	Match
+Moya, Lisvan (CarnCorp)	Moya	Lisvan	LISVANM	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	1679	Y	Moya	Lisvan	LISVANM	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+zz (End 1/30/2019) Ortiz, Lizanne (CarnCorp)	Ortiz	Lizanne	LIZANNEO	CC_TAX	CORPORATE TAX	2	N								No Match
+zz (End 6/1/2020) Calvo, Lizette (CCL)	Calvo	Lizette	LIZETTEP	CCL_SAL_ADM	CCL SALES ADMINSTRATION	4529	N								No Match
+Guzman, Elizabeth (CCL)	Guzman	Elizabeth	LIZG	CCL_RECEIVING	CCL RECEIVING DEPARTMENT	2916	Y	Guzman	Elizabeth	LIZG	CCLSO	CCL Sourcing and Supply Chain (CCL)	56600	Receiving Department (CCL)	Match
+Ljoen, Lars (CCL)	Ljoen	Lars	LLJ6438	CCL_MAR_OPS	CCL MARINE OPERATIONS	85213	Y	Ljoen	Lars	LLJ6438	CCLTO	CCL Marine Operations (CCL)	53675	Marine Ops Plng And Budgeting (CCL)	Match
+Aller, Loreen (CarnCorp)	Aller	Loreen	LOREENB	CC_CASINO	CORPORATE CASINO	1239	Y	Aller	Loreen	LOREENB	CRPEX	CRP Executive Offices (ABG)	51760	Global Sourcing (ABG)	Match
+zz (End 12/7/2020) Rice, Lori (CCL)	Rice	Lori	LORIR	CCL_GST_CARE_DEPT	CCL GUEST CARE DEPARTEMENT MIAMI SERVICES	2000	N								No Match
+zz (End 6/1/2020) Macaulay, Lorraine (CarnCorp)	Macaulay	Lorraine	LORRAINEM	CCL_IS_QC	CCL IS QUALITY CONTROL	1	N								No Match
+Lloyd, Louise (CarnCorp)	Lloyd	Louise	LOUISEL	CC_TAX	CORPORATE TAX	1	Y	Lloyd	Louise	LOUISEL	CRPEX	CRP Executive Offices (ABG)	51703	Global Treasury (ABG)	Match
+Romano, Luca (CCL)	Romano	Luca	LRO5572	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	1080	Y	Romano	Luca	LRO5572	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Maris, Lucia (CCL)	Maris	Lucia	LUCIAB	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	2912	Y	Maris	Lucia	LUCIAB	CCLTO	CCL Marine Operations (CCL)	53675	Marine Ops Plng And Budgeting (CCL)	Match
+Aloia, Luigi (CCL)	Aloia	Luigi	LUIGIA	CCL_MAR_OPS	CCL MARINE OPERATIONS	52302	Y	Aloia	Luigi	LUIGIA	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Arenas, Luis (CCL)	Arenas	Luis	LUISARE	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	2	Y	Arenas	Luis	LUISARE	CCLIS	CCL Information Systems (CCL)	52920	End-User Experience - Shrd (CCL)	Match
+Arenas, Luis (CCL)	Arenas	Luis	LUISARE	CCL_IS_ARCH_PRF	INFORMATION SYSTEMS ARCHITECTURE AND PERFORMANCE	2	Y	Arenas	Luis	LUISARE	CCLIS	CCL Information Systems (CCL)	52920	End-User Experience - Shrd (CCL)	Match
+zz (End 6/1/2020) Jimenez, Luis (CarnCorp)	Jimenez	Luis	LUISJ	CC_CASINO	CORPORATE CASINO	179	N								No Match
+Garces Varon, Luz (CCL)	Garces Varon	Luz	LUZG	CCL_FIN	CCL FINANCE	14136	Y	Garces Varon	Luz	LUZG	CCLFI	CCL Finance (CCL)	59600	Financial Systems (CCL)	Match
+Reeves, Madeleine (CarnCorp)	Reeves	Madeleine	MADELEINER	CC_GARS	CORPORATE GLOBAL ACCOUNTING & REPORTING SERVICES	460	Y	Reeves	Madeleine	MADELEINER	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Reeves, Madeleine (CarnCorp)	Reeves	Madeleine	MADELEINER	CC_LEGAL	CORPORATE LEGAL	1073	Y	Reeves	Madeleine	MADELEINER	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Alvarez, Maria (CarnCorp)	Alvarez	Maria	MAL8493	CC_CASINO	CORPORATE CASINO	698	Y								No Match
+Fernandez, Manuel (CarnCorp)	Fernandez	Manuel	MANUELF	CC_CASINO	CORPORATE CASINO	10	Y	Fernandez	Manuel	MANUELF	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+Goncalves, Marcel (CarnCorp)	Goncalves	Marcel	MARCELG	CC_SHP_REF	Corporate Ship Refits	9628	Y	Goncalves	Marcel	MARCELG	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+Naef, Marc (CarnCorp)	Naef	Marc	MARCN	CC_CASINO	CORPORATE CASINO	4	Y	Naef	Marc	MARCN	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+Ghibaudo, Marco (CCL)	Ghibaudo	Marco	MARCOGH	CCL_MAR_OPS	CCL MARINE OPERATIONS	10654	Y	Ghibaudo	Marco	MARCOGH	CCLTO	CCL Marine Operations (CCL)	53675	Marine Ops Plng And Budgeting (CCL)	Match
+zz (End 6/1/2020) Vargas, Maria (CarnCorp)	Vargas	Maria	MARIACV	CC_CASINO	CORPORATE CASINO	34	N								No Match
+zz (End 6/1/2020) Alvite, Maria (CCL)	Alvite	Maria	MARIAEA	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	19065	N								No Match
+Rufino, Maria (CarnCorp)	Rufino	Maria	MARIAEV	CC_MAR_OPS	CORPORATE MARITIME OPERATIONS	16753	Y	Rufino	Maria Cecilia	MARIAEV	CRPEX	CRP Executive Offices (ABG)	51972	Maritime Operations (ABG)	Match
+Labrada, Maria (CCL)	Labrada	Maria	MARIAL	NULL	NULL	1196	Y	Labrada	Maria	MARIAL	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+Labrada, Maria (CCL)	Labrada	Maria	MARIAL	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	90309	Y	Labrada	Maria	MARIAL	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+Leon, Maria R. (CarnCorp)	Leon	Maria R.	MARIALEO	CC_LEGAL	CORPORATE LEGAL	12595	Y	Leon	Maria	MARIALEO	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Mariut, Nicoleta (CarnCorp)	Mariut	Nicoleta	MARIAMARI	CC_CASINO	CORPORATE CASINO	18560	Y	Mariut	Maria	MARIAMARI	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+zz (End 6/1/2020) Menendez, Maria (CCL)	Menendez	Maria	MARIAMEN	CC_CASINO	CORPORATE CASINO	1	N								No Match
+zz (End 6/1/2020) Menendez, Maria (CCL)	Menendez	Maria	MARIAMEN	CCL_SAL_ADM	CCL SALES ADMINSTRATION	4044	N								No Match
+zz (End 2/28/2020) Mings, Maria (CCL)	Mings	Maria	MARIAMI	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	7247	N								No Match
+zz (End 7/9/2021) Rodriguez, Maria (CarnCorp)	Rodriguez	Maria	MARIAROD	CC_MP	CORPORATE MARITIME POLICY	347	N								No Match
+Figueredo, Maria (CCL)	Figueredo	Maria	MARIAT	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	63978	Y	Figueredo	Maria	MARIAT	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+zz (End 7/3/2020) Tritaki, Maria (CarnCorp)	Tritaki	Maria	MARIATR	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	249	N								No Match
+McKenzie, Marie (CarnCorp)	McKenzie	Marie	MARIEM	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	434	Y	McKenzie	Marie	MARIEM	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+zz (End 6/13/2021) Hurtado, Marila (CarnCorp)	Hurtado	Marila	MARILAH	CC_TAX	CORPORATE TAX	2824	N								No Match
+Santiesteban, Marilyn (CarnCorp)	Santiesteban	Marilyn	MARILYNS	NULL	NULL	423	Y	Santiesteban	Marilyn	MARILYNS	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+Santiesteban, Marilyn (CarnCorp)	Santiesteban	Marilyn	MARILYNS	CC_SHIP_BUILDING	CORPORATE SHIP BUILDING	10687	Y	Santiesteban	Marilyn	MARILYNS	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+Marine Ops Timekeeper (CCL)	Marine Ops Timekeeper		MARINEOPSTIMEKEEPER	CCL_MAR_OPS	CCL MARINE OPERATIONS	81	Y								No Match
+Rodriguez Batalla, Marino (CCL)	Rodriguez Batalla	Marino	MARINOR	CCL_MAR_OPS	CCL MARINE OPERATIONS	1	Y	Rodriguez Batalla	Marino	MARINOR	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+zz (End 12/3/2020) Romero, Mario (CCL)	Romero	Mario	MARIOR	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	524	N								No Match
+Staiano, Mario (CarnCorp)	Staiano	Mario	MARIOS	CC_SHP_REF	Corporate Ship Refits	25562	Y	Staiano	Mario	MARIOS	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+zz (End 6/1/2020) Rodriguez, Marisela (CCL)	Rodriguez	Marisela	MARISELA	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	23101	N								No Match
+Planes-Rosette, Maritza (CCL)	Planes-Rosette	Maritza	MARITZAP	CCL_REV_MGMT	CCL REVENUE MANAGEMENT	7274	Y	Planes-Rosette	Maritza	MARITZAP	CCLRM	CCL Revenue Management (CCL)	63601	Revenue Management (CCL)	Match
+zz (End 6/1/2020) Cantoni, Markantonio (CarnCorp)	Cantoni	Markantonio	MARKANTONIOC	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	18937	N								No Match
+Harris, Mark (CCL)	Harris	Mark	MARKHARR	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	61	Y	Harris	Mark	MARKHARR	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+Jackson, Mark (CCL)	Jackson	Mark	MARKJ	CCL_MAR_OPS	CCL MARINE OPERATIONS	657	Y	Jackson	Mark	MARKJ	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+O'Brien, Mark (CarnCorp)	O'Brien	Mark	MARKO	CC_TAX	CORPORATE TAX	1	Y	Obrien	Mark	MARKO	CRPTX	CRP Tax (ABG)	51750	Global Tax (ABG)	Match
+Nieto, Marlene (CarnCorp)	Nieto	Marlene	MARLENEP	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	7456	Y	Nieto	Marlene	MARLENEP	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+zz (End 12/3/2020) Zayas-Martinez, Martha (CCL)	Zayas-Martinez	Martha	MARTHA	CC_LEGAL	CORPORATE LEGAL	1	N								No Match
+zz (End 12/3/2020) Zayas-Martinez, Martha (CCL)	Zayas-Martinez	Martha	MARTHA	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	2676	N								No Match
+Montoya, Martha (CCL)	Montoya	Martha	MARTHAM	CCL_IS_QC	CCL IS QUALITY CONTROL	25139	Y	Montoya	Martha	MARTHAM	CCLIS	CCL Information Systems (CCL)	52530	Quality Engineering - Ded (CCL)	Match
+Montoya, Martha (CCL)	Montoya	Martha	MARTHAM	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	1	Y	Montoya	Martha	MARTHAM	CCLIS	CCL Information Systems (CCL)	52530	Quality Engineering - Ded (CCL)	Match
+De Zayas, Martha (CarnCorp)	De Zayas	Martha	MARTHAZ	CC_LEGAL	CORPORATE LEGAL	5128	Y	De Zayas	Martha	MARTHAZ	CRPEX	CRP Executive Offices (ABG)	51974	Ethics and Compliance (ABG)	Match
+Gallus, Martina (CCL)	Gallus	Martina	MARTINAG	CCL_MAR_OPS	CCL MARINE OPERATIONS	27775	Y	Gallus	Martina	MARTINAG	CCLTO	CCL Marine Operations (CCL)	53675	Marine Ops Plng And Budgeting (CCL)	Match
+Schaunaman, Mary (CCL)	Schaunaman	Mary	MARY	CCL_IS_GST_OPS_SYS	CCL IS Guest Operations Systems	1	Y	Schaunaman	Mary	MARY	CCLIS	CCL Information Systems (CCL)	52490	IT Shipbrd Technologies (CCL)	Match
+zz (End 5/14/2020) Farris, Matthew (CarnCorp)	Farris	Matthew	MATTHEWF	CCL_IS_QC	CCL IS QUALITY CONTROL	6	N								No Match
+Vega, Maurice (CCL)	Vega	Maurice	MAURICEV	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	156	Y	Vega	Maurice	MAURICEV	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+zz (End 2/24/2021) Farinas, Mauricio (CCL)	Farinas	Mauricio	MAURICIOF	CCL_FIN	CCL FINANCE	22377	N								No Match
+zz (End 2/24/2021) Farinas, Mauricio (CCL)	Farinas	Mauricio	MAURICIOF	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	26850	N								No Match
+Montanari, Maurizio (CCL)	Montanari	Maurizio	MAURIZIOM	CCL_MAR_OPS	CCL MARINE OPERATIONS	26	N								No Match
+zz (End 6/1/2020) Gonzalez, Mayda (CarnCorp)	Gonzalez	Mayda	MAYDAG	CCL_IS_SEC	CCL IS Security	565	N								No Match
+Coman, Marian (CarnCorp)	Coman	Marian	MCO7092	CCL_MAR_OPS	CCL MARINE OPERATIONS	15941	Y	Coman	Marian	MCO7092	CRPEX	CRP Executive Offices (ABG)	51971	Maritime Policy And Analysis (ABG)	Match
+MedCredentialing (CCL)	MedCredentialing		MEDCREDENTIALING	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	14	Y								No Match
+Medical Complaints			MEDICALCOMPLAINTS	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	98	N								No Match
+MedicalDisembarkCoordinator			MEDICALDISEMBARKCOOR	CCL_GST_CARE_TM	CCL GUEST CARE TEAM	2633	Y								No Match
+Medrecords (CCL)	Medrecords		MEDRECORDS	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	4646	N								No Match
+Med Recruiting (CCL)	Med Recruiting		MEDRECRUITING	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	61	Y								No Match
+Broussard, Meegan (CCL)	Broussard	Meegan	MEEGANB	CCL_WW_SLS	CCL WORLDWIDE SALES	23630	Y	Broussard	Meegan	MEEGANB	CCLDS	CCL Sales and Trade Marketing (CCL)	63105	Sales Administration (CCL)	Match
+Russell, Megan (CCL)	Russell	Megan	MEGANR	CCL_PUR	CCL Purchasing	58760	Y	Russell	Megan	MEGANR	CCLSO	CCL Sourcing and Supply Chain (CCL)	58300	Purchasing (CCL)	Match
+Wisecarver, Melissa Ann (CCL)	Wisecarver	Melissa Ann	MELISSAAN	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	2960	Y	Mahaffey	Melissa	MELISSAAN	CCLGO	CCL Guest Operations (CCL)	53620	Entertainment Management (CCL)	Match
+Montano, Melissa (CCL)	Montano	Melissa	MELISSAMON	CCL_FIN_PLN_RPT_SLS	CCL FINANCIAL PLANNING & REPORTING - SALES	9939	Y	Montano	Melissa	MELISSAMON	CCLFP	CCL Commercial Ops and Anlysis (CCL)	63700	Commercial Reporting and Anlys (CCL)	Match
+zz (End 6/1/2020) Penate, Melissa (CarnCorp)	Penate	Melissa	MELISSAPE	CC_TAX	CORPORATE TAX	2	N								No Match
+zz (End 8/28/2019) Pelaez-Nava, Melissa (CCL)	Pelaez-Nava	Melissa	MELISSAPEL	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	210	N								No Match
+zz (End 8/21/2021) Grasa, Mar (CCL)	Grasa	Mar	MGR1887	CCL_MAR_OPS	CCL MARINE OPERATIONS	4487	N								No Match
+Landrin, Mia (CCL)	Landrin	Mia	MIAL	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	89	Y	Landrin	Ludmilla	MIAL	CCLCM	CCL Communications (CCL)	61914	Communications And Events (CCL)	Match
+Landrin, Mia (CCL)	Landrin	Mia	MIAL	CCL_WW_SLS	CCL WORLDWIDE SALES	83	Y	Landrin	Ludmilla	MIAL	CCLCM	CCL Communications (CCL)	61914	Communications And Events (CCL)	Match
+Galarce, Michael (CCL)	Galarce	Michael	MICHAELGALA	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	38	Y	Galarce	Michael	MICHAELGALA	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 3/26/2019) Higgs, Michael (Contractor)	Higgs	Michael	MICHAELHI	CCL_IS_WIN	CCL IS WINTEL INFRASTRUCTURE ENGINEERING	201	N								No Match
+Kaczmarek, Michael (CarnCorp)	Kaczmarek	Michael	MICHAELK	NULL	NULL	54137	Y	Kaczmarek	Michael	MICHAELK	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+Kaczmarek, Michael (CarnCorp)	Kaczmarek	Michael	MICHAELK	CC_SHIP_BUILDING	CORPORATE SHIP BUILDING	6098	Y	Kaczmarek	Michael	MICHAELK	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+Perez, Michael (CCL)	Perez	Michael	MICHAELP	CCL_PROD_PLNG	CCL PRODUCT PLANNING & ANALYSIS	2327	Y	Perez	Michael	MICHAELP	CCLRM	CCL Revenue Management (CCL)	63601	Revenue Management (CCL)	Match
+Upton, Michael (CCL)	Upton	Michael	MICHAELUP	CCL_MAR_OPS	CCL MARINE OPERATIONS	20506	Y	Upton	Michael	MICHAELUP	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Cappellini, Michela (CCL)	Cappellini	Michela	MICHELAC	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	1506	Y	Cappellini	Michela	MICHELAC	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Fleites, Michelle (CCL)	Fleites	Michelle	MICHELLE	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	68	Y	Fleites	Michelle	MICHELLE	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+Nestour, Michel (CarnCorp)	Nestour	Michel	MICHELN	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	1970	Y								No Match
+			MIGRATE	CC_LEGAL	CORPORATE LEGAL	2	Y								No Match
+Costache, Mihaela (CCL)	Costache	Mihaela	MIHAELAC	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	3955	Y	Costache	Mihaela	MIHAELAC	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+zz (End 7/31/2014) Ortea, Milady (CarnCorp)	Ortea	Milady	MILADYO	CC_LEGAL	CORPORATE LEGAL	231	N								No Match
+zz (End 12/7/2020) Romanes, Miriam (CarnCorp)	Romanes	Miriam	MIRIAMR	CC_CASINO	CORPORATE CASINO	5595	N								No Match
+Feuer, Mitchell (CarnCorpAudit)	Feuer	Mitchell	MITCHELLF	CC_AUDIT_SERVICES	MANAGEMENT ADVISORY SERVICES	342	Y	Feuer	Mitchell	MITCHELLF	CRPAU	Corp Risk Advisory And Assuran (ABG)	51400	Risk Advisory And Assurance (ABG)	Match
+Capo, Mitzi (CarnCorp)	Capo	Mitzi	MITZI	CC_FOU	CARNIVAL FOUNDATION	24	Y	Garcia	Mitzi	MITZI	CRPEX	CRP Executive Offices (ABG)	51901	Corporate Communications (ABG)	Match
+zz (End 6/1/2020) Lopez, Mercedes (CCL)	Lopez	Mercedes	MLO7577	CCL_MAR_OPS	CCL MARINE OPERATIONS	7404	N								No Match
+zz (End 8/20/2021) Lopera, Madelyn (CCL)	Lopera	Madelyn	MLO8211	CC_ADMIN	CORPORATE ADMINISTRATION	20	N								No Match
+zz (End 8/20/2021) Lopera, Madelyn (CCL)	Lopera	Madelyn	MLO8211	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	348	N								No Match
+Manzanilla, Maria (CarnCorp)	Manzanilla	Maria	MMA2449	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	8867	Y	Manzanilla	Maria	MMA2449	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Borcegue, Monica (CCL)	Borcegue	Monica	MONICABO	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	17559	Y	Borcegue	Monica	MONICABO	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+Doria, Monica (CCL)	Doria	Monica	MONICADO	CCL_CHT_INC_SERV	CCL CHARTER & INCENTIVE SERVICES	10588	Y	Doria Trujillo	Monica	MONICADO	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61414	Charters Meetings and Incentiv (CCL)	Match
+Fatowe, Monica (CCL)	Fatowe	Monica	MONICAFA	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	83822	Y	Fatowe	Monica	MONICAFA	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+Leiva, Monica (CarnCorp)	Leiva	Monica	MONICALE	CC_LEGAL	CORPORATE LEGAL	3102	Y	Leiva	Monica	MONICALE	CRPEN	CRP Environmental Offices (ABG)	51976	Ethics and Compliance - Environmental (ABG)	Match
+zz (End 1/21/2019) Monika Pisonic (CCL)	Monika Pisonic		MONIKABR	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	663	N								No Match
+Torres, Monique (CarnCorp)	Torres	Monique	MONIQUETO	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	30170	Y	Torres	Monique	MONIQUETO	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+zz (End 5/26/2020) Beshir, Mostafa (CarnCorp)	Beshir	Mostafa	MOSTAFAB	CCL_ACCT_OPS	CCL ACCOUNTING OPERATIONS	2047	N								No Match
+Penate, Melissa (CarnCorp)	Penate	Melissa	MPE8279	CC_TAX	CORPORATE TAX	1059	Y	Penate	Melissa	mpe8279	CRPTX	CRP Tax (ABG)	51750	Global Tax (ABG)	Match
+zz (End 1/29/2019) Portuondo, Maria (CCL)	Portuondo	Maria	MPO2327	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	24	N								No Match
+zz (End 9/17/2021) Reimers, Michael (Contractor)	Reimers	Michael	MRE3862	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	1	N								No Match
+zz (End 8/29/2021) Sharan, Mansi (Contractor)	Sharan	Mansi	MSH7221	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	24	N								No Match
+myHR (CCL)	myHR		MYHR	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	55	Y								No Match
+Curzio, Nancy (CCL)	Curzio	Nancy	NANCYC	CCL_CREW_PAY	CCL CREW PAYROLL	1817	Y	Curzio	Nancy	NANCYC	CCLFI	CCL Finance (CCL)	59102	Financial Accounting (CCL)	Match
+zz (End 6/1/2020) Chang, Nancy (CarnCorp)	Chang	Nancy	NANCYD	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	10422	N								No Match
+Harten, Natalia (CarnCorp)	Harten	Natalia	NATALIAH	CCL_IS_END_USER_SUPP	CCL IS END USER SUPPORT DEPARTMENT	22	Y	Harten	Natalia	NATALIAH	CRPFI	CRP Finance (ABG)	51800	Corp Global Actg And Reptg Ser (ABG)	Match
+Williams, Nathaniel (CCL)	Williams	Nathaniel	NATHANIELW	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	27775	Y	Williams	Nathaniel	NATHANIELW	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+Ramulu, Neeraja (CarnCorp)	Ramulu	Neeraja	NEERAJAR	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	12	Y	Ramulu	Manikala	NEERAJAR	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+Morales, Angelica (CarnCorp)	Morales	Angelica	NEREYDAM	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	1368	Y	Morales	Nereyda	NEREYDAM	CRPEX	CRP Executive Offices (ABG)	51760	Global Sourcing (ABG)	Match
+Putheth, Nibu (CCL)	Putheth	Nibu	NIBUP	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	14771	Y	Putheth	Nibu	NIBUP	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+Krauss, Nick (CCL)	Krauss	Nick	NICKK	NULL	NULL	4054	Y	Krauss	Nicholas	NICKK	CCLIS	CCL Information Systems (CCL)	52410	New Build and Operations (CCL)	Match
+Krauss, Nick (CCL)	Krauss	Nick	NICKK	CCL_IS_ADM	INFORMATION SYSTEMS ADMINISTRATION	270	Y	Krauss	Nicholas	NICKK	CCLIS	CCL Information Systems (CCL)	52410	New Build and Operations (CCL)	Match
+Krauss, Nick (CCL)	Krauss	Nick	NICKK	CCL_IS_SHIP_TECH	CCL IS SHIPBOARD TECHNOLOGY	1411	Y	Krauss	Nicholas	NICKK	CCLIS	CCL Information Systems (CCL)	52410	New Build and Operations (CCL)	Match
+Carreira, Nicolas (CCL)	Carreira	Nicolas	NICOLASC	CCL_GST_CARE_TM	CCL GUEST CARE TEAM	29615	Y	Carreira	Nicolas	NICOLASC	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61411	Sailing Support (CCL)	Match
+zz (End 11/1/2019) Stables, Nigel (CCL)	Stables	Nigel	NIGELS	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	409	N								No Match
+Rigl, Nikki (CarnCorp)	Rigl	Nikki	NRI2143	CC_MP	CORPORATE MARITIME POLICY	17518	Y	Rigl	Veronica	NRI2143	CRPEX	CRP Executive Offices (ABG)	51971	Maritime Policy And Analysis (ABG)	Match
+Suarez, Natalia (CarnCorp)	Suarez	Natalia	NSU4681	CC_LEGAL	CORPORATE LEGAL	2	Y	Suarez	Natalia	nsu4681	CRPEX	CRP Executive Offices (ABG)	51974	Ethics and Compliance (ABG)	Match
+Rodriguez-Lape, Numnalys (CCL)	Rodriguez-Lape	Numnalys	NUMNALYSR	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	7	Y	Rodriguez-Lape	Numnalys	NUMNALYSR	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+zz (End 6/6/2020) Beneteau, Oksana (Contractor)	Beneteau	Oksana	OBE1573	CCL_IS_QC	CCL IS QUALITY CONTROL	1	N								No Match
+zz (End 12/7/2020) Radu, Octavia (CarnCorp)	Radu	Octavia	OCTAVIAR	CC_CASINO	CORPORATE CASINO	668	N								No Match
+Perez, Odalys (CCL)	Perez	Odalys	ODALYSP	CCL_CPO	COMMERCIAL PORT OPERATIONS	3	Y	Perez	Odalys	ODALYSP	CCLFO	CCL FOC and Nautical Operations (CCL)	53611	Nautical Operations (CCL)	Match
+Lorenzo, Ofelia (CarnCorp)	Lorenzo	Ofelia	OFELIAL	CC_MP	CORPORATE MARITIME POLICY	26009	Y	Lorenzo	Ofelia	OFELIAL	CRPEX	CRP Executive Offices (ABG)	51971	Maritime Policy And Analysis (ABG)	Match
+Del Cristo, Olga (CarnCorp)	Del Cristo	Olga	OLGAD	CC_CFO_ORG	CORPORATE CFO ORGANIZATION	1168	Y	Del Cristo	Olga	OLGAD	CRPEX	CRP Executive Offices (ABG)	51703	Global Treasury (ABG)	Match
+Del Cristo, Olga (CarnCorp)	Del Cristo	Olga	OLGAD	CC_TAX	CORPORATE TAX	1	Y	Del Cristo	Olga	OLGAD	CRPEX	CRP Executive Offices (ABG)	51703	Global Treasury (ABG)	Match
+zz (End 6/1/2020) Molina, Olivia (CarnCorpAudit)	Molina	Olivia	OLIVIAM	CC_AUDIT_SERVICES	MANAGEMENT ADVISORY SERVICES	355	N								No Match
+zz (End 9/29/2019) Sandoval, Omar (CCL)	Sandoval	Omar	OMARS	CCL_MAR_OPS	CCL MARINE OPERATIONS	532	N								No Match
+Crew Medical(CCL)	Crew Medical		ONCALLCREWMEDICAL	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	2300	Y								No Match
+zz (End 9/22/2019) Pascual, Oscar (CarnCorp)	Pascual	Oscar	OSCARP	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	1341	N								No Match
+zz (End 3/6/2020) Mendez, Owen (CCL)	Mendez	Owen	OWENM	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	5	N								No Match
+Llaguno, Pablo (CCL)	Llaguno	Pablo	PABLOL	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	15	Y	Llaguno	Pablo	PABLOL	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+zz (End 6/1/2020) Acevedo, Pedro (CCL)	Acevedo	Pedro	PAC7159	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	795	N								No Match
+Barguez, Pam (CCL)	Barguez	Pam	PAMB	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	787	Y	Barguez	Pamela	PAMB	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Brown, Pamela (Contractor)	Brown	Pamela	PAMELAB	CCL_IS_CFG_MGMT	CCL IS CONFIGURATION MANAGEMENT	2	Y								No Match
+Anderson, Peter (CarnCorp)	Anderson	Peter	PAN3827	CC_ADMIN	CORPORATE ADMINISTRATION	12170	Y	Anderson	Peter	pan3827	CRPEX	CRP Executive Offices (ABG)	51974	Ethics and Compliance (ABG)	Match
+zz (End 10/30/2020) Delvalle, Paola (CCL)	Delvalle	Paola	PAOLAD	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	11304	N								No Match
+Sharma, Pardeep (CarnCorp)	Sharma	Pardeep	PARDEEPS	CCL_IS_END_USER_SUPP	CCL IS END USER SUPPORT DEPARTMENT	9413	Y	Sharma	Pardeep Kumar	pardeeps	CCLIS	CCL Information Systems (CCL)	52950	Wintel Unix - Shrd (CCL)	Match
+zz (End 6/1/2020) Brown, Patricia (CarnCorp)	Brown	Patricia	PATB	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	22971	N								No Match
+zz (End 6/1/2020) Brown, Patricia (CarnCorp)	Brown	Patricia	PATB	CC_TAX	CORPORATE TAX	2	N								No Match
+Velazquez, Patricia (CCL)	Velazquez	Patricia	PATRICIAVE	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	288	Y	Velazquez	Patricia	PATRICIAVE	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+zz (End 6/2/2020) Morgan, Paul (CarnCorp)	Morgan	Paul	PAULM	CC_MAR_COMP	CC MARITIME COMPLIANCE	17681	N								No Match
+Robles-Medranda, Paul (CCL)	Robles-Medranda	Paul	PAULRO	CCL_MAR_OPS	CCL MARINE OPERATIONS	9326	Y	Robles-Medranda	Paul	PAULRO	CCLTO	CCL Marine Operations (CCL)	53675	Marine Ops Plng And Budgeting (CCL)	Match
+PBL.SFOCTest			PBL.SFOCTEST	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	813	N								No Match
+CASINO ACCOUNTING FILES (PCL)			PCLCASINOACCOUNTING	CC_CASINO	CORPORATE CASINO	1152	Y								No Match
+zz (End 3/3/2020) Esteban, Pedro (Contractor)	Esteban	Pedro	PEDROE	CCL_IS_TSO	CCL IS TECHNICAL SUPPORT OPERATIONS (TSO)	42	N								No Match
+Hanumanna, Praveen (Contractor)	Hanumanna	Praveen	PHA2004	CCL_IS_END_USER_SUPP	CCL IS END USER SUPPORT DEPARTMENT	4	Y								No Match
+Harvey, Peggy (CCL)	Harvey	Peggy	PHA5400	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	2	Y	Harvey	Peggy	PHA5400	CCLHR	CCL Human Resources (CCL)	56310	HR Shipboard General (CCL)	Match
+Cho, Phillip (CCL)	Cho	Phillip	PHILLIPC	CCL_FIN_SHIP_OPS	CCL FINANCE SHIPBOARD OPERATIONS	1781	Y	Cho	Phillip	PHILLIPC	CCLFI	CCL Finance (CCL)	59102	Financial Accounting (CCL)	Match
+Already deprovisioned as per:RITM0474584:zz (End 5/23/2021) Krishnamurthy, Prakash (Contractor)	Krishnamurthy	Prakash	PKR1646	CCL_IS_QC	CCL IS QUALITY CONTROL	1	N								No Match
+Machin, Pablo (CarnCorp)	Machin	Pablo	PMA2496	CC_FPA	CORPORATE FINANCIAL PLANNING & ANALYSIS	11653	Y	Machin	Pablo	pma2496	CRPEX	CRP Executive Offices (ABG)	51704	Global Fin Plng And Analysis (ABG)	Match
+Tech Service POs (CCL)	Tech Service POs		POFORTECHSERVICES	CCL_FIN	CCL FINANCE	31	Y								No Match
+Tech Service POs (CCL)	Tech Service POs		POFORTECHSERVICES	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	8922	Y								No Match
+zz (End 8/6/2021) Serrano Martinez, Providencia (CarnCorp)	Serrano Martinez	Providencia	PROVIDENCIAS	CC_GARS	CORPORATE GLOBAL ACCOUNTING & REPORTING SERVICES	19473	N								No Match
+zz (End 6/2/2020) Santana, Pedro (Contractor)	Santana	Pedro	PSA8833	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	1521	N								No Match
+Agarwal, Pulkit (Contractor)	Agarwal	Pulkit	PULKITA	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	2	Y								No Match
+zz (End 6/1/2020) Sharma, Puneet (Contractor)	Sharma	Puneet	PUNEETS	CCL_IS_QC	CCL IS QUALITY CONTROL	1	N								No Match
+Kainthola, Punit (Contractor)	Kainthola	Punit	PUNITK	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	1	Y								No Match
+PURCHASING REPORTS			PURCHASINGREPORTS	CCL_PUR	CCL Purchasing	1657	Y								No Match
+QA Management (CCL)	QA Management		QAMANAGEMENT	CCL_QLT_FUN_SUP_SRV	CCL QUALITY FUN SUPPORT SERVICES MIA	153	Y								No Match
+QA ARISE Admin Box (CCL)	QA ARISE Admin Box		QFSSARISEADMINBOX	CCL_QLT_FUN_SUP_SRV	CCL QUALITY FUN SUPPORT SERVICES MIA	1158	Y								No Match
+Denis, Ralph (CCL)	Denis	Ralph	RALPH	CCL_PUR	CCL Purchasing	100313	Y	Denis	Ralph	RALPH	CCLSO	CCL Sourcing and Supply Chain (CCL)	58300	Purchasing (CCL)	Match
+Mota, Raquel (CarnCorp)	Mota	Raquel	RAQUELM	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	225	Y	Mota	Raquel	RAQUELM	CRP25	Carnival Ports, Inc. (ABG)	51742	Carnival Ports (ABG)	Match
+Mehta, Rashi (CCL)	Mehta	Rashi	RASHIM	CCL_IS_ECOMMERCE	CCL IS ECOMMERCE	33	Y	Mehta	Rashi	RASHIM	CCLIS	CCL Information Systems (CCL)	52340	Guest Technology - IT (CCL)	Match
+Bryan, Richard (CCL)	Bryan	Richard	RBR2256	NULL	NULL	658	Y	Bryan	Richard	RBR2256	CCLTO	CCL Marine Operations (CCL)	53654	Environmental Operations (CCL)	Match
+Bryan, Richard (CCL)	Bryan	Richard	RBR2256	CCL_MAR_OPS	CCL MARINE OPERATIONS	6103	Y	Bryan	Richard	RBR2256	CCLTO	CCL Marine Operations (CCL)	53654	Environmental Operations (CCL)	Match
+Dixit, Rajeev (Contractor)	Dixit	Rajeev	RDI7025	CCL_IS_GST_OPS_SYS	CCL IS Guest Operations Systems	7655	Y								No Match
+Faroy, Rebecca (CarnCorp)	Faroy	Rebecca	REBECCAF	CC_INV_REL	CORPORATE INVESTOR RELATIONS	1115	Y	Faroy	Rebecca	REBECCAF	CRPEX	CRP Executive Offices (ABG)	51703	Global Treasury (ABG)	Match
+Hotel Refurb RFQ			REFURB_RFQ	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	349	N								No Match
+Walker, Regina (CCL)	Walker	Regina	REGINA	CCL_MAR_OPS	CCL MARINE OPERATIONS	19839	Y	Walker	Regina	REGINA	CCLTO	CCL Marine Operations (CCL)	58330	Maritime Compli And Occup Safe (CCL)	Match
+Fernandez, Renee (CCL)	Fernandez	Renee	RENEEP	CCL_MKT_SVCS	CCL MARKETING SERVICES	563	Y	Fernandez	Renee	RENEEP	CCLMC	CCL Marketing (CCL)	63124	Marketing E-Commerce (CCL)	Match
+Rodriguez, Ricardo (CCL)	Rodriguez	Ricardo	RICARDOR	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	1	Y	Rodriguez	Ricardo	RICARDOR	CCLFI	CCL Finance (CCL)	59400	Revenue Accounting (CCL)	Match
+Brilliant, Richard (CarnCorpAudit)	Brilliant	Richard	RICHARDB	CC_AUDIT_SERVICES	MANAGEMENT ADVISORY SERVICES	4247	Y	Brilliant	Richard	RICHARDB	CRPAU	Corp Risk Advisory And Assuran (ABG)	51400	Risk Advisory And Assurance (ABG)	Match
+Ball, Richard (CarnCorp)	Ball	Richard	RICHARDBA	CCL_IS_QC	CCL IS QUALITY CONTROL	2	Y	Ball	Richard	RICHARDBA	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+Cooke, Richard (CarnCorp)	Cooke	Richard	RICHARDCO	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	322	Y								No Match
+Hoshal, Richard (CarnCorp)	Hoshal	Richard	RICHARDHO	CC_ADMIN	CORPORATE ADMINISTRATION	28	Y	Hoshal	Richard	RICHARDHO	CRPEX	CRP Executive Offices (ABG)	51974	Ethics and Compliance (ABG)	Match
+Hoshal, Richard (CarnCorp)	Hoshal	Richard	RICHARDHO	CC_LEGAL	CORPORATE LEGAL	24738	Y	Hoshal	Richard	RICHARDHO	CRPEX	CRP Executive Offices (ABG)	51974	Ethics and Compliance (ABG)	Match
+			RICHARDHO_RM	CC_LEGAL	CORPORATE LEGAL	30	Y								No Match
+Morey, Richard (CCL)	Morey	Richard	RICHARDM	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	36939	Y	Morey	Richard	RICHARDM	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+Pruitt, Richard (CCL)	Pruitt	Richard	RICHARDP	CC_ADMIN	CORPORATE ADMINISTRATION	4025	Y	Pruitt	Richard	RICHARDP	CCLTO	CCL Marine Operations (CCL)	53654	Environmental Operations (CCL)	Match
+Pruitt, Richard (CCL)	Pruitt	Richard	RICHARDP	CCL_MAR_OPS	CCL MARINE OPERATIONS	7362	Y	Pruitt	Richard	RICHARDP	CCLTO	CCL Marine Operations (CCL)	53654	Environmental Operations (CCL)	Match
+Riding Team Evaluation (CCL)	Riding Team Evaluation		RIDETEAM	CCL_MAR_OPS	CCL MARINE OPERATIONS	42	Y								No Match
+CCL RIDING TEAM			RIDINGTEAM	CCL_MAR_OPS	CCL MARINE OPERATIONS	49275	Y								No Match
+zz (End 2/12/2019) Mercado, Roxana (Contractor)	Mercado	Roxana	RME7801	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	137	N								No Match
+Montgomery, Jerry (CarnCorp)	Montgomery	Jerry	ROBERTM	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	39587	Y	Montgomery	Robert	ROBERTM	CRPHR	Corp HR Shoreside (ABG)	51100	Global Human Resources (ABG)	Match
+Montgomery, Jerry (CarnCorp)	Montgomery	Jerry	ROBERTM	CC_LEGAL	CORPORATE LEGAL	1	Y	Montgomery	Robert	ROBERTM	CRPHR	Corp HR Shoreside (ABG)	51100	Global Human Resources (ABG)	Match
+Contreras, Roberto (CCL)	Contreras	Roberto	ROBERTOCO	CCL_RECEIVING	CCL RECEIVING DEPARTMENT	11832	Y	Contreras	Roberto	ROBERTOCO	CCLSO	CCL Sourcing and Supply Chain (CCL)	56600	Receiving Department (CCL)	Match
+Genovese, Roberto (CCL)	Genovese	Roberto	ROBERTOG	CCL_MAR_OPS	CCL MARINE OPERATIONS	3110	Y	Genovese	Roberto	ROBERTOG	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Scala, Roberto (CCL)	Scala	Roberto	ROBERTOS	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	3	Y	Scala	Roberto	ROBERTOS	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+zz (End 6/1/2020) Williams Jr, Robert (CCL)	Williams Jr	Robert	ROBERTWIL	CCL_SEC_SVC	SECURITY SERVICES	6200	N								No Match
+De La Hoz, Robinson (Contractor)	De La Hoz	Robinson	ROBINSON	CCL_IS_DATA_CTR	CCL IS DATA CENTER OPERATIONS	15	Y								No Match
+Miranda, Rodolfo (CCL)	Miranda	Rodolfo	RODOLFOM	CCL_MAR_OPS	CCL MARINE OPERATIONS	2195	Y	Miranda	Rodolfo	RODOLFOM	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Gilimete, Roger (CCL)	Gilimete	Roger	ROGERG	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	20900	Y	Gilimete	Roger	ROGERG	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Braham, Rohan (CCL)	Braham	Rohan	ROHANB	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	5806	Y	Braham	Rohan	ROHANB	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 12/7/2020) Diaz, Rolando (CCL)	Diaz	Rolando	ROLANDODI	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	1477	N								No Match
+Dillehay, Ronald (CCL)	Dillehay	Ronald	RONALDD	CCL_TOPS	CCL Tour Operations	15061	Y	Dillehay	Ronald	RONALDD	CCLGC	CCL Guest Commerce (CCL)	63128	Guest Technology (CCL)	Match
+zz (End 5/7/2020) Peretz, Ronete (CarnCorp)	Peretz	Ronete	RONETEP	CC_LEGAL	CORPORATE LEGAL	8904	N								No Match
+Carlos, Rosa (CCL)	Carlos	Rosa	ROSAC	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	207	Y	Carlos	Rosa	ROSAC	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Carlos, Rosa (CCL)	Carlos	Rosa	ROSAC	CCL_PUR	CCL Purchasing	6517	Y	Carlos	Rosa	ROSAC	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 5/19/2021) De La Teja, Rosanna (CCL)	De La Teja	Rosanna	ROSANNAD	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	1937	N								No Match
+Sicardi, Rosaura (CCL)	Sicardi	Rosaura	ROSAURAS	CCL_IS_PMO	CCL IS PMO	18154	Y	Sicardi	Rosaura	ROSAURAS	CCLIS	CCL Information Systems (CCL)	52500	IT Management - Ded (CCL)	Match
+zz (End 6/7/2021) Kanzleiter, Ross (CCL)	Kanzleiter	Ross	ROSSK	NULL	NULL	1	N								No Match
+Shapurko, Roman (CarnCorp)	Shapurko	Roman	RSH9756	NULL	NULL	1817	Y	Shapurko	Roman	rsh9756	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Shapurko, Roman (CarnCorp)	Shapurko	Roman	RSH9756	CC_LEGAL	CORPORATE LEGAL	343	Y	Shapurko	Roman	rsh9756	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+Waite, Ruel (CCL)	Waite	Ruel	RUELW	CCL_IS	CCL Information Systems	1499	Y	Waite	Ruel	RUELW	CCLIS	CCL Information Systems (CCL)	52390	Digital Technical Systms - Ded (CCL)	Match
+zz (End 6/24/2019) Wichmann, Richard (Carncorp)	Wichmann	Richard (Carncorp)	RWI1961	CC_LEGAL	CORPORATE LEGAL	2717	N								No Match
+Abbey, Ryan (CCL)	Abbey	Ryan	RYANA	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	23	Y	Abbey	Ryan	RYANA	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61109	Group (CCL)	Match
+zz (End 11/17/2021) Dubin, Samantha (CarnCorp)	Dubin	Samantha	SAMANTHAD	CC_CASINO	CORPORATE CASINO	224	N								No Match
+Kumar, Sanjay (Contractor)	Kumar	Sanjay	SANJAYK	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	14	Y								No Match
+Borzone, Stefano (CarnCorp)	Borzone	Stefano	SBO3536	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	512	Y	Borzone	Stefano	SBO3536	CRPEX	CRP Executive Offices (ABG)	51910	Global Port Destination Dev Gr (ABG)	Match
+zz (End 4/12/2021) Caceres, Susan (CCL)	Caceres	Susan	SCA8338	CC_CASINO	CORPORATE CASINO	2690	N								No Match
+Concepcion, Sonia (CCL)	Concepcion	Sonia	SCO4341	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	1	Y	Concepcion	Sonia	sco4341	CCLHR	CCL Human Resources (CCL)	59804	Compensation and Benefits (CCL)	Match
+Thompson, Scott (CCL)	Thompson	Scott	SCOTTT	CCL_PUR	CCL Purchasing	45712	Y	Thompson	Gregory	SCOTTT	CCLSO	CCL Sourcing and Supply Chain (CCL)	58300	Purchasing (CCL)	Match
+De Luise, Salvatore (CCL)	De Luise	Salvatore	SDE5259	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	2	Y	De Luise	Salvatore	sde5259	CCLFO	CCL FOC and Nautical Operations (CCL)	53659	Fleet Operations Center (CCL)	Match
+Douglas, Shannon (CarnCorp)	Douglas	Shannon	SDO4594	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	3154	Y	Douglas	Shannon	SDO4594	CRPEX	CRP Executive Offices (ABG)	51760	Global Sourcing (ABG)	Match
+SEAS			SEAS	CC_GLB_FIN_TECH_SRVC	CORPORATE GLOBAL FINANCIAL TECHNOLOGY SERVICES	2	N								No Match
+Security Services (CCL)	Security Services		SECSERVICES	CCL_SEC_SVC	SECURITY SERVICES	59	N								No Match
+Security Documents (CCL)	Security Documents		SECURITYDOCUMENTS	CCL_SEC_SVC	SECURITY SERVICES	217	Y								No Match
+zz (End 10/13/2020) Elliott, Shannon (CCL)	Elliott	Shannon	SEL6119	CC_CASINO	CORPORATE CASINO	1477	N								No Match
+zz (End 9/3/2021) Tofigh, Sepedeh (CarnCorp)	Tofigh	Sepedeh	SEPEDEHT	NULL	NULL	848	N								No Match
+zz (End 9/3/2021) Tofigh, Sepedeh (CarnCorp)	Tofigh	Sepedeh	SEPEDEHT	CC_LEGAL	CORPORATE LEGAL	9317	N								No Match
+Jagannathan, Seshadri (CCL)	Jagannathan	Seshadri	SESHADRI	CCL_IS_QC	CCL IS QUALITY CONTROL	13	Y	Jagannathan	Seshadri	SESHADRI	CCLIS	CCL Information Systems (CCL)	52490	IT Shipbrd Technologies (CCL)	Match
+zz (End 6/1/2020) Fortune, Scott (Carncorp)	Fortune	Scott (Carncorp)	SFO6698	CC_ADMIN	CORPORATE ADMINISTRATION	4355	N								No Match
+zz (End 6/1/2020) Fortune, Scott (Carncorp)	Fortune	Scott (Carncorp)	SFO6698	CC_MAR_QA	CORPORATE MARITIME QUALITY ASSURANCE	20358	N								No Match
+zz (End 7/22/2021) Garafalo, Salvatore (CCL)	Garafalo	Salvatore	SGA6586	CCL_SEC_SVC	SECURITY SERVICES	35	N								No Match
+Kashanipour, Shahnaz (CCL)	Kashanipour	Shahnaz	SHAHNAZK	CC_ADMIN	CORPORATE ADMINISTRATION	4390	Y	Kashanipour	Shahnaz	SHAHNAZK	CCLGO	CCL Guest Operations (CCL)	56360	Guest Ops Leaders - Ships (CCL)	Match
+Kashanipour, Shahnaz (CCL)	Kashanipour	Shahnaz	SHAHNAZK	CCL_GST_OPS	CCL GUEST OPERATIONS	27435	Y	Kashanipour	Shahnaz	SHAHNAZK	CCLGO	CCL Guest Operations (CCL)	56360	Guest Ops Leaders - Ships (CCL)	Match
+zz (End 3/28/2021) Sundaram, Shanmugam (CCL)	Sundaram	Shanmugam	SHANMUGAMS	CCL_IS_ECOM_SIEB	CCL IS ECOMMERCE SIEBEL	575	N								No Match
+Brotz, Sharyn (Contractor)	Brotz	Sharyn	SHARYNB	CCL_IS_PMO	CCL IS PMO	5139	Y								No Match
+Starks-Gray, Shawna (CCL)	Starks-Gray	Shawna	SHAWNAS	CCL_SAI_SUPP_WED_PLN	CCL SAILING SUPPORT WEDDING PLANNING	1123	Y	Starks-Gray	Shawna	SHAWNAS	CCLGC	CCL Guest Commerce (CCL)	56100	Guest Commerce Management (CCL)	Match
+zz (End 12/7/2020) Hernandez, Sergio (CCL)	Hernandez	Sergio	SHE2115	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	1	N								No Match
+zz (End 6/1/2020) Hemraj, Sidhika (CCL)	Hemraj	Sidhika	SHE2702	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	2177	N								No Match
+Spaleny, Sheena (CarnCorp)	Spaleny	Sheena	SHEENASP	CC_LEGAL	CORPORATE LEGAL	5	N								No Match
+zz (End 6/15/2020) Nabutovsky, Shelly (CarnCorp)	Nabutovsky	Shelly	SHELLY	CC_CASINO	CORPORATE CASINO	6608	N								No Match
+CCL Shipboard Human Resources			SHIPBOARDHR	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	113780	Y								No Match
+Shipboard HR Security Reports (CCL)	Shipboard HR Security Reports		SHIPBOARDHRSECURITYR	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	446	Y								No Match
+Shipboard Retirements			SHIPBOARDRETIREMENT	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	6794	N								No Match
+zz (End 2/2/2020) Hodges, Sarah (CCL)	Hodges	Sarah	SHO1948	CC_CASINO	CORPORATE CASINO	59	N								No Match
+zz (End 7/5/2019) Gentile, Silvio (CCL)	Gentile	Silvio	SILVIOG	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	5948	N								No Match
+Markham, Simon (CCL)	Markham	Simon	SMA2171	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	45247	Y	Markham	Simon	SMA2171	CCLHR	CCL Human Resources (CCL)	56310	HR Shipboard General (CCL)	Match
+Mazal, Uriel (CarnCorp)	Mazal	Uriel	SMA6828	CC_CASINO	CORPORATE CASINO	5625	Y	Mazal	Sergio	SMA6828	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+Mazal, Uriel (CarnCorp)	Mazal	Uriel	SMA6828	CCL_IS_QC	CCL IS QUALITY CONTROL	1	Y	Mazal	Sergio	SMA6828	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+Meins, Sarah (CCL)	Meins	Sarah	SME5955	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	273	Y	Meins	Sarah	SME5955	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+smfexaminquiry			SMFEXAMINQUIRY	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	3316	N								No Match
+Nabutovsky, Shelly (CarnCorp)	Nabutovsky	Shelly	SNA3060	CC_CASINO	CORPORATE CASINO	728	Y	Nabutovsky	Shelly	sna3060	CRPCA	CRP Casino (ABG)	51600	Global Casino Operations (ABG)	Match
+zz (End 4/9/2021) Ferguson, Sophia (CCL)	Ferguson	Sophia	SOPHIAF	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	823	N								No Match
+Richter, Stefan (CarnCorp)	Richter	Stefan	SRI1163	CC_ADMIN	CORPORATE ADMINISTRATION	1393	Y	Richter	Stefan	sri1163	CRPEN	CRP Environmental Offices (ABG)	51976	Ethics and Compliance - Environmental (ABG)	Match
+Richter, Stefan (CarnCorp)	Richter	Stefan	SRI1163	CC_LEGAL	CORPORATE LEGAL	184	Y	Richter	Stefan	sri1163	CRPEN	CRP Environmental Offices (ABG)	51976	Ethics and Compliance - Environmental (ABG)	Match
+Rivera, Santiago (CarnCorp)	Rivera	Santiago	SRI6479	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	1	Y	Rivera	Santiago	sri6479	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Killamsetti, Srinivasa (CarnCorp)	Killamsetti	Srinivasa	SRINIVASAK	CC_GLB_FIN_TECH_SRVC	CORPORATE GLOBAL FINANCIAL TECHNOLOGY SERVICES	20073	Y	Killamsetti	Srinivasa Rao	SRINIVASAK	CRPEX	CRP Executive Offices (ABG)	51708	Global Financial Services (ABG)	Match
+Danduboyina, Srinivas (CCL)	Danduboyina	Srinivas	SRINIVASD	CCL_IS_DBA_INT	CCL IS DBA Integration Group	5783	Y	Danduboyina	Srinivas	SRINIVASD	CCLIS	CCL Information Systems (CCL)	52360	Enterprise Architecture - Ded (CCL)	Match
+Rodriguez, Stephanie (CCL)	Rodriguez	Stephanie	SRO5014	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	172	Y	Rodriguez	Stephanie	sro5014	CCLHR	CCL Human Resources (CCL)	59800	Human Resources (CCL)	Match
+zz (End 6/1/2020) Rowlett, Sandra (CarnCorp)	Rowlett	Sandra	SRO7181	CC_ADMIN	CORPORATE ADMINISTRATION	709	N								No Match
+zz (End 6/1/2020) Rowlett, Sandra (CarnCorp)	Rowlett	Sandra	SRO7181	CC_LEGAL	CORPORATE LEGAL	3865	N								No Match
+zz (End 8/2/2021) Scala, Samantha (CCL)	Scala	Samantha	SSC5994	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	3578	N								No Match
+Cross, Staci (CarnCorp)	Cross	Staci	STACIC	CC_IT	CORPORATE IT	1	Y	Cross	Staci	STACIC	CCLIS	CCL Information Systems (CCL)	52560	Strategic Partnerships - Shrd (CCL)	Match
+Pallot-Shweky, Stacy (CCL)	Pallot-Shweky	Stacy	STACYP	CC_ADMIN	CORPORATE ADMINISTRATION	4265	Y	Shweky	Stacy	STACYP	CCLCM	CCL Communications (CCL)	56350	Guest Communica and Guest Care (CCL)	Match
+Pallot-Shweky, Stacy (CCL)	Pallot-Shweky	Stacy	STACYP	CCL_GST_CARE_TM	CCL GUEST CARE TEAM	2394	Y	Shweky	Stacy	STACYP	CCLCM	CCL Communications (CCL)	56350	Guest Communica and Guest Care (CCL)	Match
+Berry, Stanley (CCL)	Berry	Stanley	STANLEYB	NULL	NULL	1	Y	Berry	Stanley	STANLEYB	CCLIS	CCL Information Systems (CCL)	52471	Global Maritime Solns (CCL)	Match
+Berry, Stanley (CCL)	Berry	Stanley	STANLEYB	CC_IT	CORPORATE IT	2954	Y	Berry	Stanley	STANLEYB	CCLIS	CCL Information Systems (CCL)	52471	Global Maritime Solns (CCL)	Match
+Christoffersson, Stefan (CCL)	Christoffersson	Stefan	STEFANC	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	1	Y	Christoffersson	Stefan	STEFANC	CCLGO	CCL Guest Operations (CCL)	56700	Hotel Services Management (CCL)	Match
+Christoffersson, Stefan (CCL)	Christoffersson	Stefan	STEFANC	CCL_GST_OPS	CCL GUEST OPERATIONS	3181	Y	Christoffersson	Stefan	STEFANC	CCLGO	CCL Guest Operations (CCL)	56700	Hotel Services Management (CCL)	Match
+Christoffersson, Stefan (CCL)	Christoffersson	Stefan	STEFANC	CCL_HTL_SRV_ADM	CCL HOTEL SERVICES ADMINISTRATION	1019	Y	Christoffersson	Stefan	STEFANC	CCLGO	CCL Guest Operations (CCL)	56700	Hotel Services Management (CCL)	Match
+Christoffersson, Stefan (CCL)	Christoffersson	Stefan	STEFANC	CCL_ONB_GST_SVC	CCL ONBOARD GUEST SERVICES	402	Y	Christoffersson	Stefan	STEFANC	CCLGO	CCL Guest Operations (CCL)	56700	Hotel Services Management (CCL)	Match
+zz (End 2/15/2021) Pisano, Stefano (CCL)	Pisano	Stefano	STEFANOP	CCL_MAR_OPS	CCL MARINE OPERATIONS	67135	N								No Match
+Posse, Stephen (CCL)	Posse	Stephen	STEPHENP	CCL_GST_COMM	CCL GUEST COMMERCE	1	Y	Posse	Stephen	STEPHENP	CCLSO	CCL Sourcing and Supply Chain (CCL)	56600	Receiving Department (CCL)	Match
+zz (End 6/1/2020) Riley, Stephen (CCL)	Riley	Stephen	STEVENRI	CCL_SEC_SVC	SECURITY SERVICES	4968	N								No Match
+Global Equity Plans Mailbox			STOCKOPTION	CC_GLB_HR	CORPORATE GLOBAL HUMAN RESOURCES	343	Y								No Match
+zz (End 6/1/2020) Butler, Stuart (CCL)	Butler	Stuart	STUARTB	CCL_PUR	CCL Purchasing	58199	N								No Match
+Pillai Thazhakudy Chidambaratan, Subramonia (CCL)	Pillai Thazhakudy Chidambaratan	Subramonia	SUBRAMONIAP	CCL_IS_ECOM_SIEB	CCL IS ECOMMERCE SIEBEL	7134	Y	Thazhakudy Chidambaratan	Subramonia	SUBRAMONIAP	CCLIS	CCL Information Systems (CCL)	52330	IT Sales and Guest Svcs - Ded (CCL)	Match
+Krishnamoorthy, Sudhakar (CCL)	Krishnamoorthy	Sudhakar	SUDHAKARK	CCL_IS_DATA-WHS	DATA WAREHOUSE	35718	Y	Krishnamoorthy	Sudhakar	SUDHAKARK	CCLIS	CCL Information Systems (CCL)	52370	Info Mgmt and CRM (CCL)	Match
+Nair, Sunil (CCL)	Nair	Sunil	SUNILN	CCL_IS_QC	CCL IS QUALITY CONTROL	6	Y	Nair	Sunil	SUNILN	CCLIS	CCL Information Systems (CCL)	52490	IT Shipbrd Technologies (CCL)	Match
+zz (End 1/16/2020) Brid, Susana (CarnCorp)	Brid	Susana	SUSANAB	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	5064	N								No Match
+Lazaro, Susana (CCL)	Lazaro	Susana	SUSANAL	CC_ADMIN	CORPORATE ADMINISTRATION	1	Y	Lazaro-Diaz	Susana	SUSANAL	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+Lazaro, Susana (CCL)	Lazaro	Susana	SUSANAL	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	44213	Y	Lazaro-Diaz	Susana	SUSANAL	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+Vazquez, Suzanne (CCL)	Vazquez	Suzanne	SUZANNEV	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	1	Y	Vazquez	Suzanne	SUZANNEV	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+Vera-Keeley, Silvana (CCL)	Vera-Keeley	Silvana	SVE1496	CCL_MAR_OPS	CCL MARINE OPERATIONS	41386	Y	Vera Keeley	Silvana	sve1496	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Woolff, Suzette (CarnCorp)	Woolff	Suzette	SWO7869	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	12832	Y	Woolff	Suzette	swo7869	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Nasreddine, Syntia (CCL)	Nasreddine	Syntia	SYNTIAN	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	46181	Y	Nasreddine	Syntia	SYNTIAN	CCLHR	CCL Human Resources (CCL)	59800	Human Resources (CCL)	Match
+zz (End 6/1/2020) Amador, Tommy (CCL)	Amador	Tommy	TAM3004	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	8418	N								No Match
+zz (End 4/9/2021) Rodriguez, Tammie (CCL)	Rodriguez	Tammie	TAMMIER	CCL_GST_COMM	CCL GUEST COMMERCE	641	N								No Match
+zz (End 6/1/2020) Aviles, Tara (CCL)	Aviles	Tara	TARAA	CCL_FPA	CCL FINANCIAL PLANNING & ANALYSIS	3183	N								No Match
+zz (End 3/13/2020) zz (End 3/13/2020) Schiele, Tatjana (CCL)	zz (End 3/13/2020) Schiele	Tatjana	TATJANAS	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	5969	N								No Match
+zz (End 4/7/2020) Dennison, Tom (Contractor)	Dennison	Tom	TDE4794	CC_IT	CORPORATE IT	1	N								No Match
+zz (End 10/6/2020) Vieira, Tony (CCL)	Vieira	Tony	TDE5646	CC_ADMIN	CORPORATE ADMINISTRATION	969	N								No Match
+zz (End 10/6/2020) Vieira, Tony (CCL)	Vieira	Tony	TDE5646	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	18883	N								No Match
+Tech Purchasing			TECHPURCHASING	CCL_FIN	CCL FINANCE	46583	Y								No Match
+Tech Purchasing			TECHPURCHASING	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	158	Y								No Match
+Ciceron, Teresa (CarnCorp)	Ciceron	Teresa	TERESAC	CC_GLB_FIN_TECH_SRVC	CORPORATE GLOBAL FINANCIAL TECHNOLOGY SERVICES	24883	Y	Ciceron	Teresa	TERESAC	CRPEX	CRP Executive Offices (ABG)	51708	Global Financial Services (ABG)	Match
+Minchala-Wong, Teresa (CarnCorp)	Minchala-Wong	Teresa	TERESAMIN	CC_ADMIN	CORPORATE ADMINISTRATION	1867	Y	Minchala-Wong	Teresa	TERESAMIN	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Minchala-Wong, Teresa (CarnCorp)	Minchala-Wong	Teresa	TERESAMIN	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	240	Y	Minchala-Wong	Teresa	TERESAMIN	CRPEX	CRP Executive Offices (ABG)	51370	Health Services (ABG)	Match
+Abascal, Terri (CCL)	Abascal	Terri	TERESITA	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	556	Y	Abascal	Teresita	TERESITA	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+Mcmillan, Terrisa (CCL)	Mcmillan	Terrisa	TERRISAM	CCL_IS_PMO	CCL IS PMO	1258	Y	Mcmillan	Terrisa	TERRISAM	CCLIS	CCL Information Systems (CCL)	52280	Ports and Destination Services (CCL)	Match
+zz (End 2/7/2020) Ewell, Tony (Contractor)	Ewell	Tony	TEW7316	CCL_SHR_CNT_CTR_OPS	CCL SHARED CONTACT CENTER OPS	1	N								No Match
+zz (End 6/1/2020) Hall, Tyrell (CarnCorp)	Hall	Tyrell	THA2618	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	4783	N								No Match
+Tait, Theresa (CCL)	Tait	Theresa	THERESAT	CC_TREASURY	CORPORATE TREASURY	880	Y	Tait	Theresa	THERESAT	CCLFI	CCL Finance (CCL)	59200	Accounts Payable (CCL)	Match
+Slone, Thomas (CCL)	Slone	Thomas	THOMASSL	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	2	Y	Slone	Thomas	THOMASSL	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61109	Group (CCL)	Match
+Cotton, Timothy (CCL)	Cotton	Timothy	TIMOTHYC	CCL_MAR_OPS	CCL MARINE OPERATIONS	1	Y	Cotton	Timothy	TIMOTHYC	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+zz (End 2/21/2019) Lorette, Timothy (CCL)	Lorette	Timothy	TIMOTHYLO	CCL_MAR_OPS	CCL MARINE OPERATIONS	48	N								No Match
+zz (End 6/1/2020) Lam, Tina (CCL)	Lam	Tina	TINALA	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	1090	N								No Match
+zz (End 2/10/2020) Kamps, Tracy (CCL)	Kamps	Tracy	TKA3807	CC_ADMIN	CORPORATE ADMINISTRATION	11170	N								No Match
+zz (End 2/10/2020) Kamps, Tracy (CCL)	Kamps	Tracy	TKA3807	CCL_ENT_MGMT	CCL ENTERTAINMENT MANAGEMENT	11773	N								No Match
+zz (End 1/15/2019) Tracuzzi Spadaro, Tommaso (CCL)	Tracuzzi Spadaro	Tommaso	TOMMASOT	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	40	N								No Match
+zz (End 8/22/2020) Holm, Tor (CarnCorp)	Holm	Tor	TORH	CC_SHP_REF	Corporate Ship Refits	2256	N								No Match
+Tour Insurance (CarnCorp)	Tour Insurance		TOURINSURANCE	CC_TREASURY	CORPORATE TREASURY	12466	Y								No Match
+Cranz, Tracey (CCL)	Cranz	Tracey	TRACEYC	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	9908	Y	Cranz	Tracey	TRACEYC	CCLIS	CCL Information Systems (CCL)	52471	Global Maritime Solns (CCL)	Match
+zz (End 2/1/2021) Ott, Travis (CCL)	Ott	Travis	TRAVISO	CCL_MAR_OPS	CCL MARINE OPERATIONS	5828	N								No Match
+zz (End 5/10/2018) Winslow, Travis (CarnCorp)	Winslow	Travis	TRAVISW	CC_LEGAL	CORPORATE LEGAL	2656	N								No Match
+Richardson, Tyler (CCL)	Richardson	Tyler	TRI1118	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	14877	Y	Richardson	Tyler	TRI1118	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 6/1/2020) Samaras, Teresa (CCL)	Samaras	Teresa	TSA6551	CCL_WW_SLS	CCL WORLDWIDE SALES	8592	N								No Match
+Jaiswal, Tuhino (Contractor)	Jaiswal	Tuhino	TUHINOJ	CCL_IS_PMO	CCL IS PMO	17	N								No Match
+Dickson, Tyicia (CCL)	Dickson	Tyicia	TYICIAC	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	150	Y	Dickson	Tyicia	TYICIAC	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+Falkenberg, Ulrike (CarnCorp)	Falkenberg	Ulrike	ULRIKEF	CC_TAX	CORPORATE TAX	3805	Y	Falkenberg	Ulrike	ULRIKEF	CRPTX	CRP Tax (ABG)	51750	Global Tax (ABG)	Match
+zz (End 6/2/2020) Sampiero, Umberto (CarnCorp)	Sampiero	Umberto	UMBERTOS	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	40	N								No Match
+Tejera, Valentina (CCL)	Tejera	Valentina	VALENTINAT	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	24503	Y	Tejera Gioia	Valentina	VALENTINAT	CCLFI	CCL Finance (CCL)	59300	Risk Management (CCL)	Match
+zz (End 6/1/2020) Guzman, Valeria (CCL)	Guzman	Valeria	VALERIAG	CCL_FIN_SHIP_OPS	CCL FINANCE SHIPBOARD OPERATIONS	2	N								No Match
+Crew Email Validations			VALIDATION	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	339	N								No Match
+zz (End 9/18/2019) Izadi, Vanessa (CCL)	Izadi	Vanessa	VANESSAD	CCL_HUM_RES_PAY	CCL HUMAN RESOURCES & PAYROLL	3008	N								No Match
+zz (End 6/1/2020) Tam, Vanessa (CarnCorp)	Tam	Vanessa	VANESSAT	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	2924	N								No Match
+zz (End 1/21/2020) Chetty, Vani (CCL)	Chetty	Vani	VANIC	CCL_FIN	CCL FINANCE	15	N								No Match
+Kezhekeparampil, Varghese (CCL)	Kezhekeparampil	Varghese	VARGHESEK	CCL_SUP_CHAIN	CCL SUPPLY CHAIN	12202	Y	Kezhekeparampil	Varghese	VARGHESEK	CCLSO	CCL Sourcing and Supply Chain (CCL)	58310	Purchasing - Technical (CCL)	Match
+Garcia, Viviana (CarnCorp)	Garcia	Viviana	VBE1756	CC_LEGAL	CORPORATE LEGAL	405	Y	Berrizbeitia	Viviana	vbe1756	CRPLE	CRP Legal (ABG)	51350	Corporate Legal (ABG)	Match
+zz (End 9/3/2021) Rampat, Veda (CarnCorp)	Rampat	Veda	VEDAR	CC_LEGAL	CORPORATE LEGAL	1	N								No Match
+zz (End 9/3/2021) Rampat, Veda (CarnCorp)	Rampat	Veda	VEDAR	CC_TREASURY	CORPORATE TREASURY	208	N								No Match
+Jaghai, Velma (CCL)	Jaghai	Velma	VELMAJ	CCL_SAIL_EVT_PLN	CCL SAILING SUPPORT EVENT PLANNING	240	Y	Jaghai	Velma	VELMAJ	CCLAS	CCL Guest Svcs and Supp Mirama (CCL)	61412	Event Planning (CCL)	Match
+zz (End 9/3/2019) Jubera, Veronica (CarnCorp)	Jubera	Veronica	VERONICAJU	CC_COMM	CORPORATE COMMUNICATIONS	22	N								No Match
+Kummala, Petu (CCL)	Kummala	Petu	VESAK	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	19660	Y	Kummala	Vesa	VESAK	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Ramirez, Vicki (CarnCorp)	Ramirez	Vicki	VICKIR	CCL_IS_SHIP_TECH	CCL IS SHIPBOARD TECHNOLOGY	1	Y	Ramirez	Vicki	VICKIR	CCLIS	CCL Information Systems (CCL)	52270	Ship, Port & Destination Technology (CCL)	Match
+Yu, Victoria (CarnCorp)	Yu	Victoria	VICTORIAZ	CCL_FPA	CCL FINANCIAL PLANNING & ANALYSIS	3581	Y	Yu	Victoria	VICTORIAZ	CRPEX	CRP Executive Offices (ABG)	51704	Global Fin Plng And Analysis (ABG)	Match
+Angras, Vidit (CCL)	Angras	Vidit	VIDITA	CCL_IS_ECOM_SIEB	CCL IS ECOMMERCE SIEBEL	1691	Y	Angras	Vidit	VIDITA	CCLIS	CCL Information Systems (CCL)	52330	IT Sales and Guest Svcs - Ded (CCL)	Match
+Prinzi, Vincenzo (CCL)	Prinzi	Vincenzo	VINCENZOP	CCL_MAR_OPS	CCL MARINE OPERATIONS	44552	Y	Prinzi	Vincenzo	VINCENZOP	CCLTO	CCL Marine Operations (CCL)	53651	Technical Operations (CCL)	Match
+Alonso, Vivian (CCL)	Alonso	Vivian	VIVIANA	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	17510	Y	Alonso	Vivian	VIVIANA	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Alfonso, Vivian (CarnCorp)	Alfonso	Vivian	VIVIANCA	CC_GLB_FIN_TECH_SRVC	CORPORATE GLOBAL FINANCIAL TECHNOLOGY SERVICES	24429	Y	Carvajal-Alfonso	Vivian	VIVIANCA	CRPEX	CRP Executive Offices (ABG)	51708	Global Financial Services (ABG)	Match
+zz (End 6/1/2020) Campos, Vivian (CarnCorp)	Campos	Vivian	VIVIANR	CC_LEGAL	CORPORATE LEGAL	8853	N								No Match
+Lindor, Vladimir (CCL)	Lindor	Vladimir	VLADIMIRL	CCL_GST_CARE_TM	CCL GUEST CARE TEAM	173	Y	Lindor	Vladimir	VLADIMIRL	CCLCM	CCL Communications (CCL)	56350	Guest Communica and Guest Care (CCL)	Match
+zz (End 7/2/2020) Matthews, Victor (CCL-CUK)	Matthews	Victor	VMA9693	CC_PORT_DEVELOPMENT	CORPORATE PORT DEVELOPMENT	128	N								No Match
+zz (End 6/1/2020) Jimenez, Verania (CCL)	Jimenez	Verania	VPE9892	CCL_CLAIMS_LOSS_PREV	CCL CLAIMS & LOSS PREVENTION DEPARTMENT	17562	N								No Match
+Mejia, Waldina (CCL)	Mejia	Waldina	WALDINAM	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	48326	Y	Mejia	Waldina	WALDINAM	CCLSE	CCL Ship Operations (CCL)	56320	Office of Shared Services (CCL)	Match
+zz (End 6/1/2020) Colimon, Woodly (CarnCorp)	Colimon	Woodly	WCO5804	CC_GLOB_SRC	CARNIVAL GLOBAL SOURCE	1	N								No Match
+Weddings MOD			WEDDINGSMGRONDUTY	CCL_SAI_SUPP_WED_PLN	CCL SAILING SUPPORT WEDDING PLANNING	1	Y								No Match
+Weekly Ship Report (CCL)	Weekly Ship Report		WEEKLYSHIPREPORT	CCL_SEC_SVC	SECURITY SERVICES	7	Y								No Match
+zz (End 4/10/2019) Hellman, William (CCL)	Hellman	William	WILLIAMH	CCL_SEC_SVC	SECURITY SERVICES	241	N								No Match
+Planicka, William (CarnCorp)	Planicka	William	WPL3592	CC_MAR_OPS	CORPORATE MARITIME OPERATIONS	1	Y	Planicka	William	WPL3592	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+Planicka, William (CarnCorp)	Planicka	William	WPL3592	CC_SHIP_BUILDING	CORPORATE SHIP BUILDING	11036	Y	Planicka	William	WPL3592	CRPSB	CRP Corporate Shipbuilding (ABG)	51850	Marine Technology (ABG)	Match
+zz (End 1/19/2021) Julien, Yamile (CCL)	Julien	Yamile	YAMILE	CCL_SHIP_HR	CCL SHIPBOARD HUMAN RESOURCES	7767	N								No Match
+zz (End 8/20/2021) Rios, Yannelis (CarnCorp)	Rios	Yannelis	YANNELISR	CC_MP	CORPORATE MARITIME POLICY	16046	N								No Match
+Wilkey, Yanza (CCL)	Wilkey	Yanza	YANZAW	CCL_CON_SLS_PVP	CCL CONSUMER SALES PVP	417	Y	Wilkey	Yanza	YANZAW	CCLMR	CCL Contact Ctr Sales Miramar (CCL)	63180	Consumer Sales Strat Init (CCL)	Match
+Cruz, Yelixa (CCL)	Cruz	Yelixa	YELIXAC	CCL_MKT_SVCS	CCL MARKETING SERVICES	1371	Y	Cruz	Yelixa	YELIXAC	CCLMC	CCL Marketing (CCL)	63124	Marketing E-Commerce (CCL)	Match
+Martell-Carrasco, Yerandys (CCL)	Martell-Carrasco	Yerandys	YERANDYSM	CCL_SEC_SVC	SECURITY SERVICES	643	Y	Martell-Carrasco	Yerandys	YERANDYSM	CCLSS	CCL Security Services (CCL)	55200	Security Services (CCL)	Match
+zz (End 3/6/2020) Hernandez, Yvonne (CCL)	Hernandez	Yvonne	YHE1545	CCL_EXC_OFF	CCL EXECUTIVE OFFICES	3617	N								No Match
+Goyal, Yogesh (CCL)	Goyal	Yogesh	YOGESHG	CCL_IS_ERS_DEV	CCL IS ERS DEV TEAM	11335	Y	Goyal	Yogesh	YOGESHG	CCLIS	CCL Information Systems (CCL)	52360	Enterprise Architecture - Ded (CCL)	Match
+Poore, Yolanda (CCL)	Poore	Yolanda	YOLYP	CCL_IS_DBA_INT	CCL IS DBA Integration Group	33	Y								No Match
+Alonso, Yormery (CCL)	Alonso	Yormery	YORMERYA	CCL_NEW_BLDS_RFB	CCL NEW BUILDS & REFURBISHMENTS	1009	Y	Alonso	Yormery	YORMERYA	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+Alonso, Yormery (CCL)	Alonso	Yormery	YORMERYA	CCL_PUR	CCL Purchasing	1	Y	Alonso	Yormery	YORMERYA	CCLNB	CCL New Builds (CCL)	56000	New Builds (CCL)	Match
+zz (End 6/1/2020) Pena, Yesenia (CarnCorp)	Pena	Yesenia	YPE7984	CC_CASINO	CORPORATE CASINO	21	N								No Match
+zz (End 3/27/2020) Chen, Yvonne (Contractor)	Chen	Yvonne	YVONNECH	CCL_R&D	CCL RESEARCH & DEVELOPMENT	5256	N								No Match
+Ruiz, Zulay (CarnCorp)	Ruiz	Zulay	ZULAYR	CC_IT	CORPORATE IT	76209	Y								No Match
+			ZZ_JKE1385	CC_CASINO	CORPORATE CASINO	8	Y								No Match
+Lejuez, Josie (CCL)	Lejuez	Josie	ZZ_JLEJUEZ	CCL_TRV_SRV_GLOG	CCL TRAVEL SERVICES & GUEST LOGISTICS	1	N								No Match
+zz_KarlAu			ZZ_KARLAU	CC_ADMIN	CORPORATE ADMINISTRATION	97	Y								No Match
+zz_KarlAu			ZZ_KARLAU	CC_MP	CORPORATE MARITIME POLICY	9028	Y								No Match
